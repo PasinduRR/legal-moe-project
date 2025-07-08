@@ -1,0 +1,94 @@
+entity,label
+136,CARDINAL
+2003,DATE
+4,CARDINAL
+5,CARDINAL
+a period of,DATE
+three years,DATE
+a consecutive period of,DATE
+three years,DATE
+six months,DATE
+6,CARDINAL
+2,CARDINAL
+a period of,DATE
+two years,DATE
+chapter xxxvii fund fund,ORG
+176,CARDINAL
+1,CARDINAL
+the ministry of the minister,ORG
+2,CARDINAL
+two-thirds,CARDINAL
+3,CARDINAL
+1,CARDINAL
+36,CARDINAL
+2003,DATE
+137,CARDINAL
+4,CARDINAL
+one-third,CARDINAL
+2,CARDINAL
+5,CARDINAL
+the ministry of the minister,ORG
+6,CARDINAL
+article 154,LAW
+the financial year,DATE
+chapter,PERSON
+177,CARDINAL
+five hundred thousand,CARDINAL
+seven years,DATE
+178,CARDINAL
+1,CARDINAL
+five hundred,CARDINAL
+six months,DATE
+second,ORDINAL
+2,CARDINAL
+five hundred thousand,CARDINAL
+six months,DATE
+second,ORDINAL
+3,CARDINAL
+five hundred thousand,CARDINAL
+a period of,DATE
+six months,DATE
+4,CARDINAL
+179,CARDINAL
+36,CARDINAL
+2003,DATE
+five hundred thousand,QUANTITY
+six months,DATE
+second,ORDINAL
+180,CARDINAL
+1,CARDINAL
+five hundred thousand,QUANTITY
+six months,DATE
+2,CARDINAL
+181,CARDINAL
+five hundred thousand,QUANTITY
+six months,DATE
+140,CARDINAL
+36,CARDINAL
+2003,DATE
+second,ORDINAL
+182,CARDINAL
+1,CARDINAL
+five hundred thousand,QUANTITY
+six months,DATE
+2,CARDINAL
+183,CARDINAL
+five hundred thousand,QUANTITY
+twelve months,DATE
+36,CARDINAL
+2003,DATE
+184,CARDINAL
+five hundred thousand,QUANTITY
+six months,DATE
+second,ORDINAL
+185,CARDINAL
+1,CARDINAL
+five hundred thousand,QUANTITY
+six months,DATE
+2,CARDINAL
+186,CARDINAL
+1,CARDINAL
+142,CARDINAL
+2,CARDINAL
+3,CARDINAL
+sri lanka,GPE

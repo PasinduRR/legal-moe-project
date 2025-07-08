@@ -1,0 +1,42 @@
+entity,label
+securities and exchange commission,ORG
+7,CARDINAL
+19,CARDINAL
+2021,DATE
+the minutes,TIME
+14,CARDINAL
+15,CARDINAL
+1,CARDINAL
+2,CARDINAL
+3,CARDINAL
+one,CARDINAL
+two,CARDINAL
+chapter 3,LAW
+16,CARDINAL
+8,CARDINAL
+sri lanka,GPE
+sri lanka,GPE
+9,CARDINAL
+sri lanka,GPE
+10,CARDINAL
+sri lanka,GPE
+securities and exchange commission,ORG
+11,CARDINAL
+section 16,LAW
+every year,DATE
+at least two,CARDINAL
+that year,DATE
+first,ORDINAL
+the thirtieth of september of that year,DATE
+second,ORDINAL
+the subsequent year,DATE
+18,CARDINAL
+12,CARDINAL
+sri lanka,GPE
+19,CARDINAL
+4,CARDINAL
+19,CARDINAL
+1,CARDINAL
+2,CARDINAL
+3,CARDINAL
+4,CARDINAL

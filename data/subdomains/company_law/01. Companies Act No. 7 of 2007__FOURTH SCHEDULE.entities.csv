@@ -1,0 +1,119 @@
+entity,label
+434,CARDINAL
+third,ORDINAL
+section 35,LAW
+1,CARDINAL
+93 to 98,CARDINAL
+99,CARDINAL
+101,CARDINAL
+3,CARDINAL
+198,CARDINAL
+200,CARDINAL
+fifth,ORDINAL
+annual,DATE
+fourth,ORDINAL
+1,CARDINAL
+1,CARDINAL
+the period of five years,DATE
+2,CARDINAL
+3,CARDINAL
+4.,CARDINAL
+5,CARDINAL
+2007,DATE
+435,CARDINAL
+second,ORDINAL
+the two preceding years,DATE
+8,CARDINAL
+436,CARDINAL
+the two preceding years,DATE
+10,CARDINAL
+1,CARDINAL
+more than one,CARDINAL
+the two preceding years,DATE
+2,CARDINAL
+11,CARDINAL
+12,CARDINAL
+the two preceding years,DATE
+437 13,DATE
+14,CARDINAL
+the two preceding years,DATE
+15,CARDINAL
+more than two years,DATE
+16,CARDINAL
+17,CARDINAL
+18,CARDINAL
+19,CARDINAL
+less than three years,DATE
+20,CARDINAL
+1,CARDINAL
+2,CARDINAL
+3,CARDINAL
+438,CARDINAL
+five financial years,DATE
+five years ending,DATE
+the date three months,DATE
+2,CARDINAL
+five financial years,DATE
+3,CARDINAL
+2,CARDINAL
+439,CARDINAL
+21,CARDINAL
+five financial years,DATE
+22,CARDINAL
+1,CARDINAL
+five financial years,DATE
+440,CARDINAL
+2,CARDINAL
+3,CARDINAL
+20,CARDINAL
+1 to,CARDINAL
+3,CARDINAL
+4,DATE
+13,DATE
+17,CARDINAL
+more than two years,DATE
+24,CARDINAL
+25,CARDINAL
+441 26,CARDINAL
+8,CARDINAL
+27,CARDINAL
+10,CARDINAL
+28,CARDINAL
+less than five years,DATE
+four years,DATE
+three years,DATE
+two years or,DATE
+one year,DATE
+20,CARDINAL
+21,DATE
+22,CARDINAL
+four years,DATE
+three years,DATE
+two years or,DATE
+five years,DATE
+29,CARDINAL
+20,CARDINAL
+21,DATE
+22,CARDINAL
+the year,DATE
+the financial year,DATE
+less than a year,DATE
+a financial year,DATE
+30,CARDINAL
+20,CARDINAL
+21,DATE
+22,CARDINAL
+31,CARDINAL
+20,CARDINAL
+21,DATE
+22,CARDINAL
+442,CARDINAL
+fifth,ORDINAL
+annual,DATE
+annual,DATE
+annual,DATE
+the fourteenth day,DATE
+first,ORDINAL
+the year,DATE
+first,ORDINAL
+first,ORDINAL

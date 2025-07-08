@@ -1,0 +1,88 @@
+entity,label
+14,CARDINAL
+24,CARDINAL
+2024,DATE
+4,CARDINAL
+9,CARDINAL
+10,CARDINAL
+14,CARDINAL
+section 21,LAW
+section 21,LAW
+21,CARDINAL
+1,CARDINAL
+2,CARDINAL
+1,CARDINAL
+15,CARDINAL
+section 22,LAW
+section 22,LAW
+24,CARDINAL
+22,CARDINAL
+sri lanka,GPE
+sri lanka,GPE
+16,CARDINAL
+section 22,LAW
+17,CARDINAL
+18,CARDINAL
+section 35,LAW
+section 35,LAW
+35,DATE
+16,CARDINAL
+24,CARDINAL
+2024,DATE
+19,CARDINAL
+section 36,LAW
+section 36,LAW
+20,CARDINAL
+section 37,LAW
+section 37,LAW
+21,CARDINAL
+section 38,LAW
+section 38,LAW
+38,DATE
+1,CARDINAL
+three months,DATE
+its financial year,DATE
+such financial year,DATE
+sri lanka,GPE
+financial year,DATE
+at least one,CARDINAL
+24,CARDINAL
+2024,DATE
+17,CARDINAL
+english,NORP
+daily,DATE
+sri lanka,GPE
+2,CARDINAL
+sri lanka,GPE
+"shall,-",PERSON
+three months,DATE
+its financial year,DATE
+such financial year,DATE
+sri lanka,GPE
+financial year,DATE
+at least one,CARDINAL
+english,NORP
+daily,DATE
+sri lanka,GPE
+3,CARDINAL
+1,CARDINAL
+2,CARDINAL
+18,CARDINAL
+24,CARDINAL
+2024,DATE
+4,CARDINAL
+3,CARDINAL
+22,CARDINAL
+section 39,LAW
+section 39,LAW
+1,CARDINAL
+1,CARDINAL
+2,CARDINAL
+1,CARDINAL
+24,CARDINAL
+1a,CARDINAL
+3,CARDINAL
+2,CARDINAL
+2,CARDINAL
+1,CARDINAL
+two months of the end of the financial year,DATE

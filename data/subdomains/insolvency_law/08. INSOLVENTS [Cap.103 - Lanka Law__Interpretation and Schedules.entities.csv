@@ -1,0 +1,35 @@
+entity,label
+j. k.,PERSON
+e. f. (,PERSON
+j. k.,PERSON
+19,CARDINAL
+j. k,PERSON
+19,CARDINAL
+j. k.,PERSON
+j. k.,PERSON
+j. k-,PERSON
+j. k.,PERSON
+j. k.,PERSON
+a.b.. district,PERSON
+19,CARDINAL
+two,CARDINAL
+.last,PERSON
+two,CARDINAL
+19,CARDINAL
+thai,NORP
+.last,PERSON
+19,CARDINAL
+first,ORDINAL
+1,CARDINAL
+second,ORDINAL
+third,ORDINAL
+19,CARDINAL
+a.b.. district,PERSON
+1.9,CARDINAL
+a. b.,PERSON
+c. d.,PERSON
+g.h.. district,PERSON
+19,CARDINAL
+19,CARDINAL
+the year,DATE
+a. b.,PERSON

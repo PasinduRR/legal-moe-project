@@ -1,0 +1,137 @@
+Section 46 International Arbitration Act 2020
+PART 8 – MAKING OF AWARD AND TERMINATION OF
+PROCEEDINGS
+46 Rules applicable to substance of dispute
+(1) The arbitral tribunal shall decide the dispute in accordance with such rules of
+law as are chosen by the parties as applicable to the substance of the dispute.
+(2) Any designation of the law or legal system of a given country shall be
+construed, unless otherwise expressed, as directly referring to the substantive
+law of that country and not to its conflict of laws rules.
+(3) Failing any designation by the parties, the arbitral tribunal shall apply the law
+determined by the conflict of laws rules which it considers applicable.
+(4) The arbitral tribunal shall decide on what is fair and right only if the parties
+have expressly authorised it to do so.
+(5) In all cases, the arbitral tribunal shall decide in accordance with the terms of
+the contract and shall take into account the usages of the trade applicable to the
+transaction.
+(6) The arbitral tribunal may award any remedy or relief that could have been
+ordered by the court if the dispute had been the subject of civil proceedings in
+that court.
+47 Decision-making by panel of arbitrators
+(1) If there is more than one arbitrator, any decision of the arbitral tribunal shall be
+made, unless otherwise agreed by the parties, by a majority of all its members.
+(2) Questions on rules of procedure may be decided by a presiding arbitrator, if so
+authorised by the parties or all members of the arbitral tribunal.
+48 Settlement
+(1) If, during arbitral proceedings, the parties settle the dispute, the arbitral tribunal
+shall terminate the proceedings and, if requested by the parties and not objected
+to by the arbitral tribunal, record the settlement in the form of an arbitral award
+on agreed terms.
+(2) An award on agreed terms shall be made in accordance with the provisions of
+section 51 and shall state that it is an award.
+(3) An award made under this section has the same status and effect as any other
+award on the merits of the case.
+Page 24 Act 21 of 2020 to
+International Arbitration Act 2020 Section 49
+49 Interest up to making of award
+(1) Where an arbitral tribunal determines to make an award for the payment of
+money, whether on a claim for a liquidated or an unliquidated amount, the
+tribunal may, subject to sub-section (2), include in the sum for which the award
+is made, interest at such reasonable rate as the tribunal determines on the whole
+or any part of the money, for the whole or any part of the period between the
+date on which the cause of action arose and the date on which the award is
+made.
+(2) Sub-section (1) does not –
+(a) authorise the awarding of interest upon interest;
+(b) apply in relation to any amount upon which interest is payable as of right
+whether by virtue of an agreement or otherwise; or
+(c) affect the damages recoverable for the dishonour of a bill of exchange.
+50 Interest on debt under award
+(1) This section applies if –
+(a) an arbitral tribunal makes an award for the payment of an amount of
+money; and
+(b) under the award, the amount is to be paid by a due date.
+(2) The arbitral tribunal may direct that interest, including compound interest, is
+payable if the amount is not paid on or before the due date.
+(3) The arbitral tribunal may set a reasonable rate of interest.
+(4) The interest is payable –
+(a) from the day immediately following the due date; and
+(b) on so much of the amount as remains unpaid.
+(5) The direction is taken to form part of the award.
+51 Form and contents of award
+(1) The award shall be made in writing, signed by the arbitrator or arbitrators and
+delivered to each party.
+(2) If there is more than one arbitrator, the signatures of the majority of all members
+of the arbitral tribunal shall suffice, provided that the reason for any omitted
+signature is stated.
+(3) The award shall state –
+(a) the reasons upon which it is based, unless the parties have agreed that no
+reasons are to be given or the award is an award on agreed terms under
+section 48; and
+to Act 21 of 2020 Page 25
+Section 52 International Arbitration Act 2020
+(b) its date and the place of arbitration.
+(4) This section shall apply to a correction or an interpretation of an award under
+section 53 or to an additional award under section 54.
+52 Termination of proceedings
+(1) The arbitral proceedings are terminated by the final award or by an order of the
+arbitral tribunal in accordance with sub-section (2).
+(2) The arbitral tribunal shall issue an order for the termination of the arbitral
+proceedings when –
+(a) the claimant withdraws his claim, unless the respondent objects thereto
+and the arbitral tribunal recognises a legitimate interest on his part in
+obtaining a final settlement of the dispute;
+(b) the parties agree on the termination of the proceedings; or
+(c) the arbitral tribunal finds that the continuation of the proceedings has for
+any other reason become unnecessary or impossible.
+(3) The mandate of the arbitral tribunal terminates with the termination of the
+arbitral proceedings, subject to sections 53, 54 and 58 (4).
+53 Correction and interpretation of award
+(1) A party may request the arbitral tribunal within 30 days of receipt of an award,
+unless otherwise agreed by the parties, to –
+(a) correct in the award any errors in computation, any clerical or
+typographical errors or any errors of similar nature; or
+(b) give an interpretation of a specific point or part of the award.
+(2) A party making a request under sub-section (1) must notify the other party of
+the request.
+(3) If the arbitral tribunal considers the request to be justified, it shall make the
+correction or give the interpretation within 30 days of receipt of the request.
+(4) An interpretation given under sub-section 3 shall form part of the award.
+(5) The arbitral tribunal may correct any error of the type referred to in sub-section
+(1)(a) on its own initiative within 30 days of the date of the award.
+(6) The arbitral tribunal may extend, if necessary, the period of time within which
+it shall make a correction or an interpretation.
+Page 26 Act 21 of 2020 to
+International Arbitration Act 2020 Section 54
+54 Additional award
+(1) A party may request the arbitral tribunal within 30 days of receipt of an award,
+unless otherwise agreed by the parties, to make an additional award as to claims
+presented in the arbitral proceedings but omitted from the award.
+(2) If the arbitral tribunal considers the request under sub-section (1) to be justified,
+it shall make the additional award within 60 days.
+(3) The arbitral tribunal may extend, if necessary, the period of time within which
+it shall make an additional award under sub-section (2).
+55 Costs of the arbitration
+(1) For the purposes of sections 56 and 57, “costs of the arbitration” means —
+(a) the arbitrators’ fees and expenses;
+(b) the fees and expenses of any arbitral institution concerned; and
+(c) the legal or other costs of the parties.
+(2) Any such reference includes the costs of or incidental to any proceedings to
+determine the amount of the recoverable costs of the arbitration.
+56 Agreement to pay costs in any event
+An agreement which has the effect that a party is to pay the whole or part of the costs
+of the arbitration in any event is only valid if made after the dispute in question has
+arisen.
+57 Award of costs
+(1) The arbitral tribunal may make an award allocating the costs of the arbitration
+as between the parties, subject to any agreement of the parties.
+(2) Unless the parties otherwise agree, the tribunal shall award costs on the general
+principle that costs should follow the event except where it appears to the
+tribunal that in the circumstances this is not appropriate in relation to the whole
+or part of the costs.
+PART 9 – RECOURSE AGAINST AWARD
+58 Application for setting aside as exclusive recourse against arbitral
+award
+(1) Recourse to a court against an arbitral award may be made only by an
+application for setting aside in accordance with sub-sections (2) and (3).
+to Act 21 of 2020 Page 27

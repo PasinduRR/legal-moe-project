@@ -1,0 +1,20 @@
+entity,label
+securities and exchange commission,ORG
+65,CARDINAL
+sri lanka,FAC
+19,CARDINAL
+2,CARDINAL
+1,CARDINAL
+1,CARDINAL
+thirty days,DATE
+2,CARDINAL
+later than ninety days,DATE
+part iii,PERSON
+79,DATE
+66,CARDINAL
+sri lanka,GPE
+chapter,PERSON
+80,CARDINAL
+third,ORDINAL
+81,CARDINAL
+1,CARDINAL

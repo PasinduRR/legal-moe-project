@@ -1,0 +1,781 @@
+48 Intellectual Property Act, No. 36 of 2003
+Provided, however, that the grounds of nullity
+referred to in subsection (2) of section 29 shall not
+be taken into account if such grounds are not
+apparent on the date of the making of the application
+to Court;
+(b) that the identical industrial design has been
+previously registered upon a prior application or
+has been conferred earlier priority by virtue of an
+application in that behalf upon the ground of prior
+registration in another country ;
+(c) that the essential elements of the registered
+industrial design have been unlawfully derived from
+the creation of another person within the meaning
+of section 33.
+(2) Where an application under subsection (1) of this
+section relates to several industrial designs, included in the
+registration and any ground for nullity applies to some, the
+Court shall declare such registration null and void in so far
+as it relates to the industrial design in respect of which the
+ground for nullity applies.
+Date and effect of 61. (1) Upon a final decision of the Court declaring
+nullity. total or partial nullity of the registration of an industrial
+design, the registration shall be deemed to have been null
+and void totally or partially, as the case may be, from the
+date of such registration.
+(2) When a declaration of nullity becomes final the
+Registrar of the Court shall notify the Director-General who
+shall record such declaration in the register and cause it be
+published in the Gazette.
+Intellectual Property Act, No. 36 of 2003 49
+PART IV
+CHAPTER XI
+DEFINITIONS
+62. (1) For the purposes of this Part, “invention” means Definition of
+an idea of an inventor which permits in practice the solution invention.
+to a specific problem in the field of technology.
+(2) An invention may be, or may relate to, a product or
+process.
+(3) The following, notwithstanding they are inventions
+within the meaning of subsection (1), shall not be
+patentable—
+(a) discoveries, scientific theories and mathematical
+methods ;
+(b) plants, animals and other micro organism other than
+transgenic micro organism and an essentially
+biological process for the production of plants and
+animals other than non-biological and
+microbiological processes:
+Provided however, that a patent granted in
+respect of micro-organisms shall be subject to the
+provisions of this Act;
+(c) schemes, rules, or methods for doing business,
+performing purely mental acts or playing games ;
+(d) methods for the treatment of the human or animal
+body by surgery or therapy, and diagnostic methods
+practiced on the human or animal body :
+Provided however, any product used in any such
+method shall be patentable;
+(e) an invention which is useful in the utilization of
+special nuclear material or atomic energy in an
+atomic weapon;
+50 Intellectual Property Act, No. 36 of 2003
+(f) any invention, the prevention within Sri Lanka of
+the commercial exploitation of which is necessary
+to protect the public order, morality including the
+protection of human, animal or plant life or health
+or the avoidance of serious prejudice to the
+environment.
+Patentable 63. An invention is patentable if it is new, involves an
+inventions. inventive step and is industrially applicable.
+Novelty. 64. (1) An invention is new if it is not anticipated by
+prior art.
+(2) Prior art shall consist of—
+(a) everything disclosed to the public, anywhere in the
+world, by written publication, oral disclosure, use
+or in any other way, prior to the filing or, where
+appropriate, priority date of the patent application
+claiming the invention ;
+(b) the contents of patent application made in Sri Lanka
+having an earlier filing or, where appropriate,
+priority date than the patent application referred to
+in paragraph (a), to extent that such contents are
+included in the patent granted on the basis of the
+said patent application made in Sri Lanka.
+(3) A disclosure made under paragraph (a) of subsection
+(2) shall be disregarded—
+(a) if such disclosure occurred within one year
+preceding the date of the patent application and if
+such disclosure or in consequence of acts committed
+by the applicant or his predecessor in title ;
+(b) if such disclosure occurred within six months
+preceding the date of the patent application and if
+such disclosure was by reason or in consequence
+of any abuse of the rights of the applicant or his
+predecessor in title.
+Intellectual Property Act, No. 36 of 2003 51
+65. An invention shall be considered as involving an Inventive step.
+inventive step if, having regard to the prior art relevant to
+the patent application claiming the invention, such inventive
+step would not have been obvious to a person having ordinary
+skill in the art.
+66. An invention shall be considered industrially Industrial
+applicable if it can be made or used in any kind of industry. application of
+invention.
+CHAPTER XII
+RIGHTTOA PATENT
+67. (1) Subject to the provisions of section 68 the right Right to a
+to a patent shall belong to the inventor. patient.
+(2) Where two or more persons have jointly made an
+invention, the right to a patent shall belong to them jointly.
+(3) If and to the extent to which two or more persons
+have made the same invention independently of each other,
+the person whose application has the earliest filling date or,
+if priority is claimed, the earliest validly claimed priority
+date, shall have the right to the patent, so long as that
+application is not withdrawn, abandoned or rejected.
+68. Where the essential element of the invention claimed Assignment of
+in a patent application or patent have been unlawfully derived patent application
+or patent, by court
+from an invention for which the right to the patent belongs
+in case of
+to another person, such other person may apply to the Court
+usurpation.
+for an order that the said patent application or patent be
+assigned to him :
+Provided that where, after a patent application has been
+filed, the person to whom the right to the patent belongs
+gives his consent to the filing of the said patent application,
+such consent shall, for all purposes, be deemed to have been
+effective from the date of filing of such application :
+Provided also that the Court shall not entertain an
+application for the assignment of a patent after the expiry of
+a period of five years from the date of grant of the patent.
+52 Intellectual Property Act, No. 36 of 2003
+Inventions made 69. (1) In the absence of any provision to the contrary
+by an employee in any contract of employment or for the execution of work,
+or pursuant to a the right to a patent for an invention made in the performance
+commission.
+of such contract of employment or in the execution of such
+work shall be deemed to accrue to the employer, or the person
+who commissioned the work, as the case may be :
+Provided that where the invention acquires an economic
+value much greater than the parties could reasonably have
+foreseen at the time of entering the contract of employment
+or for the execution of work, as the case may be, the inventor
+shall be entitled to equitable remuneration which may be
+fixed by the Court an application made to it in that behalf,
+in the absence of an agreement between the parties.
+(2) Where an employee whose contract of employment
+does not require him to engage in any inventive activity,
+makes in the field of activities of his employer, an invention
+using data or means placed at his disposal by his employer,
+the right to the patent for such invention shall be deemed to
+accrue to the employer, in the absence of any provision to
+the contrary in the contract of employment :
+Provided that the employee shall be entitled to equitable
+remuneration which, in the absence of agreement between
+the parties, may be fixed by the Court, taking into account
+his emoluments an application made to it in that behalf the
+economic value of the invention and any benefit derived
+from it by the employer.
+(3) The rights conferred on the inventor under
+subsections (1) and (2) shall not be restricted by contract.
+Naming of 70. (1) The inventor shall be named as such in the
+inventor. patent, unless by a declaration in writing signed by him or
+on his behalf and submitted to the Director-General, he
+indicates his decision to forgo his name being included in
+the patent.
+(2) The provisions of subsection (1) shall not be
+modified by the terms of any contract.
+Intellectual Property Act, No. 36 of 2003 53
+CHAPTER XIII
+REQUIREMENTSOF APPLICATIONAND PROCEDURE
+FOR GRANTOFA PATENT
+71. (1) (a) An application for the grant of a patent shall Requirements of
+be made to the Director-General in the prescribed form and applications
+shall contain—
+(i) a request for the grant of the patent ;
+(ii) a description of the patent;
+(iii) a claim or claims ;
+(iv) a drawing or drawings, where required ;
+(v) an abstract ;
+(vi) date and number of any application for a patent
+filed by the applicant abroad (hereinafter referred
+to as the “foreign application”), if any, relating to
+the same, or essentially the same invention as that
+claimed in the present application ;
+(vii) a declaration that the applicant or his predecessor
+in title has not obtained a patent abroad before the
+application was filed relating to the same or
+essentially the same invention as that claimed in
+the application.
+(b) If the declaration referred to in sub-paragraph (vii)
+of paragraph (a) of subsection (1) of this section is found to
+be false, the Court may declare the patent to be null and
+void on an application made to it by any interested party or
+a Competent Authority including the Director-General. The
+registered owner of the patent, assignees and licensees shall
+be made party to that application.
+54 Intellectual Property Act, No. 36 of 2003
+(c) Where the applicant’s ordinary residence or principal
+place of business is outside Sri Lanka, he shall be represented
+by an agent resident in Sri Lanka whose name and address
+shall be given in the application, and the application shall
+be accompanied by a power of attorney granted to such agent
+by the applicant.
+(d) The application may be accompanied by a
+declaration signed by the inventor, giving his name and
+address and requesting that he be named as such in the patent.
+(2) (a) The request shall contain –
+(i) a petition that the patent be granted ;
+(ii) the title of the invention;
+(iii) the name, address, description and any other
+prescribed information concerning the applicant,
+the inventor and the agent, if any.
+(b) Where the applicant is not the inventor, the request
+shall be accompanied by a statement justifying the applicant’s
+right to the patent.
+(c) The Director-General shall send a copy of the
+statement referred to in paragraph (b) to the inventor who
+shall have the right to inspect the application and to receive,
+on payment of the prescribed fee, a copy thereof.
+(3) The description shall disclose the invention in a
+manner sufficiently clear and complete for the invention to
+be evaluated, and to be carried out by a person having
+ordinary skill in the relevant technology and shall, in
+particular, indicate the best mode known to the applicant
+for carrying out the invention.
+(4) The claim or claims shall be clear, concise and
+supported by the description.
+(5) Drawings shall be required when they are necessary
+for the understanding of the invention.
+Intellectual Property Act, No. 36 of 2003 55
+(6) The terms of any claim shall determine the scope
+and extent of the protection afforded by the patent, and the
+description and drawings may be used to interpret such claim.
+(7) The abstract shall serve the purpose of technical
+information and shall not be used for the purpose of
+determining or interpreting the scope and extent of the
+protection afforded by the patent.
+(8) Any application filed outside Sri Lanka under the
+Patent Corporation Treaty for a patent designating Sri Lanka
+shall if the applicant files a corresponding application with
+the Director-General be deemed to be an application made
+under this Act.
+For the purposes of this Chapter “the Patent Corporation
+Treaty” means the Patent Corporation Treaty made in
+Washington on June19th 1970, as amended from time
+totime.
+72. An application for the grant of a patent shall not be Application fee.
+entertained unless prescribed fee has been paid to the
+Director-General.
+73. (1) Every applicant shall furnish, within the Search report.
+prescribed period, a report, which if not in English shall be
+accompanied by a translation thereof in English, of a search
+which shall conform such type as may be prescribed :
+Provided, however, that in lieu of the said search an
+applicant may request the Director-General to refer the
+application to a local examiner who shall examine the
+application on the basis of any claim with due regard to the
+description and the drawings, if any, and furnish a report to
+the Director-General within the prescribed period, on the
+relevant prior art, after making the required effort to discover
+as much of the relevant prior art as facilities permit ; and for
+the purposes of the search the local examiner shall make
+reference to every documentation on prior art available to
+him.
+56 Intellectual Property Act, No. 36 of 2003
+(2) The applicant shall, when requiring the Director-
+General to refer his application to a local examiner, forward
+such application with the prescribed fee to Director-General.
+(3) (a) The applicant shall, at the request of the Director-
+General, furnish him with the following documents in respect
+of any foreign application for a patent filed by him abroad
+relating to the same or essentially the same invention as that
+claimed in the application filed under this Act –
+(i) a copy of any communication received by the
+applicant concerning the results of any search or
+examination carried out in respect of the foreign
+application ;
+(ii) a copy of the patent granted on the basis of the
+foreign application ; and
+(iii) a copy of any final decision rejecting the foreign
+application or refusing the grant of a patent
+requested in the foreign application.
+(b) The applicant shall, at the request of the Director–
+General, furnish him with a copy of any final decision
+invalidating the patent granted on the basis of the foreign
+application referred to in paragraph (a).
+(4) For this purposes of the section “local examiner”
+means any skilled person to whom the Director-General may
+refer questions concerning patents.
+Unity of 74. An application shall relate to one invention only or
+invention. to a group of inventions which are so linked to each other so
+as to form a single general inventive concept.
+Amendment 75. (1) An applicant may amend the application,
+and division provided that the amendment shall not exceed the limits of
+of application. the disclosure in the initial application.
+(2) (a) An applicant may divide the application into
+two or more applications (hereinafter referred to as
+“divisional applications”) provided that each divisional
+application shall not exceed the limits of disclosure in the
+initial application.
+Intellectual Property Act, No. 36 of 2003 57
+(b) Each divisional application shall be entitled to the
+filing, or where applicable, priority, from date of the initial
+application.
+(3) An amendment to an application or a division of an
+application shall be subject to the payment of a prescribed
+fee.
+76. (1) An application may contain a declaration
+Right of priority.
+claiming the priority, pursuant to the Convention, of one or
+more earlier national, regional or international applications
+filed by the applicant or his predecessor in title in or for any
+State party to the said Convention.
+(2) Where the application contains a declaration under
+subsection (1), the Director-General may require the
+applicant to furnish, within the prescribed period, a copy of
+the earlier application, certified as correct by an officer
+authorized in that behalf, for that purpose by the Office with
+which it was filed or, where the earlier application is an
+international application filed under the Patent Co-operation
+Treaty, by an office authorized in that behalf for that purpose
+by the International Bureau of the World Intellectual Property
+Organization.
+(3) The effect of the declaration referred to in subsection
+(1) shall be the same as provided for in the Convention
+referred to therein.
+(4) Where any of the requirements of this section or
+any regulation made thereunder have not been complied
+with, the declaration referred to in subsection (1) shall be
+deemed to be null and void.
+77. (1) The Director-General shall record as the filing
+Filing date.
+date, the date of receipt of the application :
+Provided that on the date of the receipt of the application
+, contains –
+(a) the name and address of the applicant ;
+58 Intellectual Property Act, No. 36 of 2003
+(b) the name and address of the inventor and, where the
+applicant is not his inventor, the statement referred
+to in paragraph (b) of subsection (2) of section 71 ;
+(c) a description of the patent;
+(d) a claim or claims :
+Provided further that at the time of receipt of the
+application the prescribed fee has been paid.
+(2) Where the Director-General finds, at the time of
+receipt of the application, that the provisions of subsection
+(1) have not been complied with, he shall request the
+applicant to file the required correction within a period of
+three months from the date of such request.
+(3) Where the applicant complies with the request
+referred to in subsection (2), the Director-General shall record
+as the filing date, the date of receipt of the required correction
+; where the applicant fails to so comply the Director–General
+shall treat the application as null and void.
+(4) Where the application refers to drawings which in
+fact are not included in the application, the Director-General
+shall request the applicant to furnish the missing drawings.
+(5) Where the applicant complies with the request
+referred to in subsection (4), the Director-General shall record
+as the filing date the date of receipt of the missing drawings;
+where the applicant fails to so comply the Director-General
+shall record as the filing date, the date of receipt of the
+application and shall make no reference to the said drawings.
+(6) The title, description, drawings, abstracts and claims
+filed with any international application made under
+subsection (8) of section 71, designating Sri Lanka shall be
+deemed to be carried out in accodance with specifications
+required under this Act.
+Intellectual Property Act, No. 36 of 2003 59
+(7) The filing date of such application made under
+subsection (8) of section 71 and processed by the office shall
+be deemed to be the date of filling of such application under
+the Patent Corporation Treaty.
+78. (1) The Director-General shall examine the
+Examination of
+application and shall satisfy himself as to the fulfilment of applications &c.
+the following:—
+(a) where applicable, the requirements of paragraph (b)
+of subsection (1) of section 71 ;
+(b) the requirements of paragraph (a) of subsection (2)
+of section 71 ;
+(c) where applicable, the requirements of paragraph (b)
+of subsection (2) of section 71 ;
+(d) the description, the claims and where applicable,
+the drawings, which comply with the prescribed
+requirements ;
+(e) the essential elements of the invention claimed in
+the application have not been unlawfully derived
+from a patent already granted in Sri Lanka ;
+(f) the application contains an abstract ;
+(g) the search report referred to in section 73 has been
+submitted.
+(2) Where the Director-General finds that the conditions
+referred to in subsection (1) are not fulfiled he shall request
+the applicant to file the required correction within a period
+of three months from the date of such request ; where the
+applicant fails to so comply the application shall, subject to
+the provisions of subsection (3), be rejected.
+(3) Where no correction is provided in response to a
+request under subsection (2), the Director-General shall, on
+payment of the prescribed fee within the prescribed period,
+include the corrections into the application and if the
+prescribed fee is not paid within the prescribed period the
+application shall be rejected.
+60 Intellectual Property Act, No. 36 of 2003
+(4) Where the Director-General finds that the essential
+elements of an invention claimed in an application are
+unlawfully derived from a patent already granted in Sri
+Lanka, such application shall be rejected.
+(5) The Director-General shall notify the applicant of
+any decision under subsections (2), (3) and (4) and any
+decision taken to reject the application shall be in writing
+stating the reasons for such rejection.
+Grant of patent. 79. (1) The grant of a patent shall not be refused and a
+patent shall not be invalidated on the ground that the
+commercial exploitation of the claimed invention is prohibited
+by any law except where the prevention of the commercial
+exploitation of the claimed invention is necessary in order to
+protect public order, and morality including the protection of
+human, animal or plant life or health or for the avoidance of
+serious prejudice to the environment.
+(2) Where the applicant fulfils the requirements of
+subsection (1) of section 78 to the satisfaction of the Director-
+General, he shall grant the patent, and shall forthwith —
+(a) record the particulars relating to patent in the
+Registerof patents required to be maintained in
+accordance with the provisions of section 80 ;
+(b) issue a certificate to the applicant in respect of the
+grant of a patent together with a copy of the patent
+documents including the search report :
+Provided however where the applicant has not tendered
+an international search report, but has requested the Director–
+General to refer the application to a local examiner under
+the proviso to section 73, the Director-General shall publish
+a notice informing the public, of the possibility of granting
+a patent to the applicant at the expiration of a period of three
+months from the date of publication of the notice, unless
+otherwise directed by the Court.
+Intellectual Property Act, No. 36 of 2003 61
+(3) The Director-General shall thereafter as soon as
+practicable cause to be published in the Gazette a notice
+pertaining to the grant of the patent.
+(4) The patent shall be deemed to be granted on the date
+that the Director-General acts in accordance with the
+provisions of paragraph (a) of subsection (2).
+(5) The notice referred to in the proviso to subsection(2)
+shall contain the name and address of the applicant and where
+the applicant is resident outside Sri Lanka a postal address
+for service in Sri Lanka, a description of the invention and
+any other information as may be prescribed.
+(6) The applicant shall make the payment of the
+prescribed fee for the publication referred to in the proviso
+to subsection (2) upon the request of the Director-General,
+and where the applicant fails to satisfy such request within
+one month from the date of such request the Director-General
+shall refuse to grant such patent.
+80. The Director-General shall keep and maintain a Register of
+register (hereinafter called and referred to as the “Register Patents.
+of Patents”) wherein all patents shall be recorded, in the
+order of their grant, specifying the number of the patent,
+the name and address of the grantee and, if the grantee is
+resident outside Sri Lanka, a postal address for service in
+Sri Lanka, the date of application and grant, any change in
+the ownership of a patent application or patent, the
+amendment or division of a patent application, the
+assignment or transmission of a patent application or patent,
+any valid claim to priority, the surrender or revocation of a
+patent and such other matters relating to patents as are
+authorised or directed by this Part to be so recorded or
+may from time to time be prescribed.
+81. Any person may examine the register and may obtain Examination of
+certified extracts therefrom on payment of the prescribed fee. register and
+certified copies.
+62 Intellectual Property Act, No. 36 of 2003
+Inspection of 82. (1) Any person may, after the grant of a patent,
+files. inspect, subject to subsections (2) and (3), the file relating
+to any patent and may obtain certified extracts therefrom on
+payment of the prescribed fee.
+(2) The file relating to a patent application may be
+inspected before the grant of the patent only with the written
+permission of the applicant :
+Provided that before the grant of the patent the Director-
+General may divulge the following information to any
+person—
+(a) the name, address and description of the applicant
+and the name and address of the agent, if any ;
+(b) the number of the application ;
+(c) the filing date of the application and, if priority is
+claimed, the priority date, the number of the earlier
+application and the name of the State in which the
+earlier application was filed or, when the earlier
+application is a regional or an international
+application, the name of the State or States for which
+and the office with which, it was filed ;
+(d) the title of the invention ;
+(e) any change in the ownership of the application and
+any reference to a licence contract appearing in the
+file relating to the application.
+(3) Where the provisions of the proviso to subsection
+(2) of section 79 are applicable, the reference to the grant of
+a patent in subsections (1) and (2) of this section shall be
+deemed to be a reference to the publication of the notice
+referred to in the said proviso.
+(4) No person employed in or at the Office may make a
+patent application or be granted a patent or acquire or hold
+in any manner whatsoever any right relating to a patent during
+the period of his employment in or at the office and for one
+year after the termination of such employment.
+Intellectual Property Act, No. 36 of 2003 63
+CHAPTER XIV
+DURATIONOF PATENT
+83. (1) Subject and without prejudice to the other Duration of patent.
+provisions of this Part a patent shall expire twenty years
+after the filing date of application for its registration.
+(2) Where a patentee intends at the expiration of the
+second year from the date of grant of the patent to keep the
+same in force he shall, twelve months prior to the date of
+expiration of the second and each succeeding year during
+the term of the patent, pay the prescribed annual fee:
+Provided, however, that a period of grace of six months
+shall be allowed after the date of such expiration, upon
+payment of such surcharge as may be prescribed :
+Provided further that the patentee may pay in advance
+the whole or any portion of the aggregate of the prescribed
+annual fees.
+CHAPTER XV
+RIGHTSOF OWNEROF PATENT
+84. (1) Subject and without prejudice to the other Rights of owner of
+provisions of this Part, the owner of a patent shall have the patent.
+following exclusive rights in relation to a patented
+invention:—
+(a) to exploit the patented invention ;
+(b) to assign or transmit the patent ;
+(c) to conclude licence contracts.
+(2) No person shall do any of the acts referred to in
+subsection (1) without the consent of the owner of the patent.
+64 Intellectual Property Act, No. 36 of 2003
+(3) For the purposes of the this Part “exploitation” of a
+patented invention means any of the following acts in relation
+to a patent :—
+(a) when the patent has been granted in respect of a
+product—
+(i) making, importing, offering for sale, selling,
+exporting or using the product ;
+(ii) stocking such product for the purpose of
+offering for sale, selling, exporting or using ;
+(b) when the patent has been granted in respect of a
+process—
+(i) using of the process ;
+(ii) doing any of the acts referred to in paragraph
+(a), in respect of a product obtained directly
+by means of the process ;
+(iii) preventing any person using that process or
+using, selling or importing any product
+obtained directly by means of that process
+unless such person is authorized to do so.
+Burden of proof 85. (1) Where the subject mater of a patent is a process
+to be on the for obtaining a product, the burden of proof in a civil action
+alleged infringer.
+of establishing that an alleged infringing product was not
+obtained by that patented process shall be on the alleged
+infringer—
+(a) if the product obtained by the patented process is
+new ; or
+(b) if a substantial likelihood exists that the product
+was made by the patented process and the patent
+owner has been unable through reasonable efforts
+to determine the process actually used.
+Intellectual Property Act, No. 36 of 2003 65
+(2) In the gathering and evaluation of evidence, the
+legitimate interests of the alleged infringer in protecting his
+undisclosed information shall be taken into account.
+86. (1) The provisions of section 84 shall— Limitation of
+owner’s rights.
+(i) extend only to acts done for industrial or
+commercial purposes and in particular shall not
+extend to acts done only for the purpose of scientific
+research;
+(ii) not preclude a person having the rights referred to
+in section 87 or a licensee, from exploiting the
+patented invention ;
+(iii) not extend to the presence or use of products on
+foreign vessels, aircraft, spacecraft, or land vehicles
+which temporarily or accidentally enter the waters,
+airspace or territory of Sri Lanka ;
+(iv) not extend to acts in respect of articles which have
+been put in the market by the owner of the patent
+or by a manufacturer under licence.
+(2) (a) Any person, body of persons, a government
+department or a statutory body may make an application to
+the Director General for the purpose of obtaining a licence
+to exploit a patent in the manner hereafter provided.
+(b) Upon the receipt of such application, the Director
+General may issue a licnece for exploition if he is satisfied
+that the applicant has made efforts to obtain approval from
+the right holder on reasonable commercial terms and
+conditions and that such efforts have not been successful
+within a reasonable period of time.
+(c) Director-General may waive the requirements set
+out in paragraph (b) where he has statisfied himself of the
+existence of a national emergency or any other circumstances
+of extreme urgency or in case of public non-commercial use
+66 Intellectual Property Act, No. 36 of 2003
+for the purposes such as national security, nutrition, health
+or for the development of others vital section of the national
+economy.
+(d) The exploitation of the patent shall be limited in
+scope and duration to the purpose as is specified in the
+licence. Such exploitation shall be predominantly for the
+purpose of supply to the domestic market.
+(e) The Director-General shall consider each
+application on its individual merits before granting a licence
+to exploit a patent.
+(f) The issuance of a licence shall be non-exclusive and
+subject to the payment of adequate remuneration to the owner
+of the patent taking into consideration the economic value
+as determined by the Director-General, and where applicable,
+the need to correct anti-competitive practices.
+(g) Where such application is for the exploitation of
+the patent (the second patent) which cannot be exploited
+without infringing another patent (the first patent), the
+following conditions shall apply :
+(i) the invention claimed in the second patent shall
+involve and important technical advance of
+considerable economic significance in relation to
+the invention claimed in the first patent;
+(ii) the owner of the first patent shall be entitled to a
+cross licence on reasonable terms to exploit the
+invention claimed in the second patent; and
+(iii) the exploitation authorized in respect of the first
+patent shall be non-assignable except with the
+assignment of the second patent.
+(h) The decision of the Director-General, shall be
+notified in writing to the owner of the patent as soon as
+practicable.
+Intellectual Property Act, No. 36 of 2003 67
+(i) The Director-General, shall upon, the request of the
+owner or of the beneficiary of the licence, after hearing the
+parties, vary his decision by amending the terms subject to
+which licence for the exploitation of the patent is issued to
+the extent only that the changed circumstances justify such
+variation.
+(j) The Director-General shall upon the request of the
+owner, terminate the non-voluntary license if he is satisfied
+that the circumstances which led to his decision have ceased
+to exist and are unlikely to recur or that the license has failed
+to comply with terms of such licence.
+(k) Notwithstanding anything contained in paragraph,
+(j) the Director-General shall not terminate a licence, if he
+is satisfied that adequate protection of the legitimate interest
+of the beneficiary of the licence justifies the continuity of
+such licence.
+(l) The licence to exploit a patent may be transferred
+only with the enterprise or the business of the licencee of
+such patent or with the part of such enterprise or business,
+in relation to which the licence to exploit has been granted.
+(m) Where a judicial or administrative body has
+determined that the manner of exploitation of a patent by its
+owner or its licensee is anti-competitive, and the Director-
+General is satisfied that the exploitation of a patent in
+accordance with this section would remedy such practice,
+the Director-General may authorize any person, body of
+persons, government departments or statutory body to exploit
+the patent without a licence of the owner of the patent. The
+provisions of the above paragraphs except those of paragraphs
+(b), (c) and (g) shall be applicable to such licence.
+(3) Any person aggrieved by any decision of the
+Director-General under subsection (2), may tender an appeal
+therefrom. The provisions of section 173 shal1, mutatis
+mutandis, apply in respect of such appeal.
+68 Intellectual Property Act, No. 36 of 2003
+Rights derived 87. (1) Where a person at the filing date or, where
+from prior applicable, the priority date, of the patent application—
+manufacture or
+use.
+(a) was in good faith making the product or using the
+process in Sri Lanka which is the subject of the
+invention claimed in such application ;
+(b) had in good faith made serious preparations in Sri
+Lanka towards the making of the product or using
+the process referred to in paragraph (a),
+he shall have the right, despite the grant of the patent, to
+exploit the patented invention :
+Provided that the product in question is made, or the
+process in question is used by the said person in Sri Lanka :
+Provided further, if the invention was disclosed under
+circumstances referred to in paragraph (a) or (b) of subsection
+(3) of section 64, he may prove, that his knowledge of the
+invention was not as a result of such disclosure.
+(2) The right referred to in subsection (1) shall not be
+assigned or transmitted except as part of the business of the
+person concerned.
+(3) The provisions of this section shall not affect the
+rights of any person to object to the grant of a patent on the
+ground that such invention is not patendable under sections
+63, 64, 65 and 66 of the Act, or to seek relief under sections
+68 and 99 of the Act.
+CHAPTER XVI
+ASSIGNMENTAND TRANSMISSIONOF PATENT APPLICATIONSAND
+PATENTS
+Assignment and 88. (1) A patent application or patent may be assigned
+transmission of or transmitted and such assignment or transmission shall be
+patent applications
+in writing signed by or on behalf of the contracting parties.
+and patents.
+Intellectual Property Act, No. 36 of 2003 69
+(2) Any person becoming entitled by assignment or
+transmission to a patent application or patent may apply to
+the Director-General in the prescribed manner to have such
+assignment or transmission recorded in the register.
+(3) No such assignment or transmission shall be
+recorded in the register unless the prescribed fee has been
+paid to the Director-General.
+(4) No such assignment or transmission shall have effect
+against third parties unless so recorded in the register.
+89. In the absence of any agreement to the contrary Joint ownership of
+between the parties, joint owners of a patent application or patent applications
+or patents.
+patent may, separately, assign or transmit their rights in the
+patent application or patent, exploit the patented invention
+and take action against any person exploiting the patented
+invention without their consent, but may only jointly
+withdraw the patent application, surrender the patent or
+conclude a licence contract.
+C H A P T E R X V I I
+LICENCE CONTRACTS
+90. For the purposes of this Part licence contract means Interpretation.
+any contract by which the owner of a patent (hereinafter
+referred to as “the licensor”) grants to another person or
+enterprise (hereinafter referred to as the “the licensee”) a
+licence to do all or any of the acts referred to in paragraph
+(a) of subsection (1) and subsection (3) of section 84.
+91. (1) A licence contract shall be in writing signed by Form and record
+or on behalf of the contracting parties. of licence
+contract.
+(2) Upon a request in writing signed by or on behalf of
+the contracting parties, the Director-General shall, on
+payment of the prescribed fee, record in the register such
+particulars relating to the contract as the parties thereto might
+wish to have so recorded :
+Provided that the parties shall not be required to disclose
+or have recorded any other particulars relating to the said
+contract.
+70 Intellectual Property Act, No. 36 of 2003
+Rights of licensee. 92. In the absence of any provision to the contrary in
+the licence contract, the licensee shall—
+(a) be entitled to do all or any of the acts referred to in
+paragraph (a) of subsection (1) and subsection (3)
+of section 84 within the territory of Sri Lanka,
+without limitation as to time and through application
+of the patented invention ;
+(b) not be entitled to assign or transmit his rights under
+the licence contract or grant sub-licences to third
+parties.
+Rights of the 93. (1) In the absence of any provision to the contrary
+licensor. in the licence contract, the licensor may grant further licences
+to third parties in respect of the same patent or perform all
+or any of the acts referred to in paragraph (a) of subsection
+(1) and subsection (3) of section 84.
+(2) Where the licence contract provides the licence to
+be exclusive, and unless it is expressly provided otherwise
+in such contract, the licensor shall not grant further licences
+to third parties in respect of the same patent or perform all
+or any of the acts referred to in paragraph (a) of subsection
+(1) and subsection (3) of section 84.
+Invalid clauses 94. Any term or condition in a licence contract shall be
+in licence null and void in so far as it imposes upon the licensee, in the
+contracts.
+industrial or commercial field, restrictions not derived from
+the rights conferred by this Part on the owner of the patent,
+or unnecessary for the safeguarding of such rights :
+Provided that—
+(a) restrictions concerning the scope, extent or duration
+of exploitation of the patented invention, or the
+geographical area in or the quality or quantity of
+the products in connection with, which the patented
+invention may be exploited ; and

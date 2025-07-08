@@ -1,0 +1,78 @@
+Electronic Transactions Act, No. 19 of 2006 1
+[Certified on 19th May, 2006]
+LD.—O. 8/2004.
+AN ACT TO RECOGNIZE AND FACILITATE THE FORMATION OF CONTRACTS,
+THE CREATION AND EXCHANGE OF DATA MESSAGES, ELECTRONIC
+DOCUMENTS, ELECTRONIC RECORDS AND OTHER COMMUNICATIONS IN
+ELECTRONIC FORM IN SRI LANKA ; AND TO PROVIDE FOR THE
+APPOINTMENT OF A CERTIFICATION AUTHORITY AND ACCREDITATION OF
+CERTIFICATION SERVICE PROVIDERS ; AND TO PROVIDE FOR MATTERS
+CONNECTED THEREWITH OR INCIDENTAL THERETO.
+BE it enacted by the Parliament of the Democratic Socialist
+Republic of Sri Lanka as follows :-
+1. (1) This Act may be cited as the Electronic Transactions Short title and
+Act, No. 19 of 2006. date of
+operation.
+(2) The provisions of subsection (1) of this section shall
+come into operation on the date on which this Act is Certified
+as an Act of Parliament and the other provisions shall come
+into operation on such date as the Minister may appoint, by
+Order published in the Gazette (hereinafter referred to as the
+“appointed date”).
+CHAPTER I
+GENERAL PROVISIONS
+2. The objectivs of the Act shall be— Objectives of the
+Act.
+(a) to facilitate domestic and international electronic
+commerce by eliminating legal barriers and
+establishing legal certainty ;
+(b) to encourage the use of reliable forms of electronic
+commerce ;
+(c) to facilitate electronic filling of documents with
+Government and to promote efficient delivery of
+Government services by means of reliable forms of
+electronic communications ; and
+(d) to promote public confidence in the authenticity,
+integrity and reliability of data messages, electronic
+documents, electronic records or other
+communications.
+2 Electronic Transactions Act, No. 19 of 2006
+CHAPTER II
+RECOGNITION DATA MESSAGES AND OTHER COMMUNICATIONS IN
+ELECTRONIC FORM
+Legal 3. No data message, electronic document, electronic
+recognition of record or other communication shall be denied legal
+electronic
+recognition, effect, validity or enforceability on the ground
+records.
+that it is in electronic form.
+Requirement for 4. Notwithstanding the fact that the provisions of written
+writing. laws for the time being in force in Sri Lanka attach legal
+validity to certain instruments, only if such instruments have
+been reduced to writing, such requirement shall be deemed
+to be satisfied by a data message, electronic document,
+electronic record or other communication in electronic form
+if the information contained therein is accessible so as to be
+usable for subsequent reference.
+Requirements 5. (1) Where the law requires information to be presented
+for original or retained in its original form, that requirement shall be
+form.
+deemed to be satisfied by a data message, electronic
+document, electronic record or other communication in
+electronic form if there exists a reliable assurance as to the
+integrity of the information from the time when it was made
+available in electronic form and the information contained
+in the data message, electronic document, electronic record
+or other communication is available and can be used for
+subsequent reference.
+(2) For the purposes of subsection (1)—
+(a) the criterion for assessing the integrity of
+information, is whether such information has
+remained complete and unaltered, apart from the
+addition of any endorsement or any change which
+arises in the normal course of communication,
+storage or display ; and
+(b) the standard for reliability of the assurance shall be
+assessed having regard to the purpose for which the
+information was generated and all other relevant
+circumstances.

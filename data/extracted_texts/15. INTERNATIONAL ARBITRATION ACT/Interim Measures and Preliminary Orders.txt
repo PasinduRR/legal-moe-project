@@ -1,0 +1,183 @@
+International Arbitration Act 2020 Section 20
+(5) A party is not precluded from raising a plea under sub-section (4) by the fact
+that he has appointed, or participated in the appointment of, an arbitrator.
+(6) A plea that the arbitral tribunal is exceeding the scope of its authority shall be
+raised as soon as the matter alleged is raised during the arbitral proceedings.
+(7) The arbitral tribunal may admit a later plea if it considers the delay justified.
+(8) The arbitral tribunal may rule on a plea either as a preliminary question or in an
+award on the merits.
+(9) If the arbitral tribunal rules as a preliminary question that it has jurisdiction,
+any party may request, within 30 days after having received notice of that
+ruling, the court to decide the matter which decision shall be subject to no
+appeal.
+20 Powers relating to conduct of arbitral proceedings
+Unless the parties agree otherwise, the parties shall be taken as having agreed that the
+powers conferred upon the arbitral tribunal include the power to —
+(a) order the provision of further particulars in a statement of claim or
+statement of defence;
+(b) order the giving of security for costs;
+(c) fix and amend time limits within which various steps in the arbitral
+proceedings must be completed;
+(d) order the discovery and production of documents or materials within the
+possession or power of a party;
+(e) order the answering of interrogatories; and
+(f) order any party to do all such other things during the arbitral proceedings
+as may reasonably be needed to enable an award to be made properly and
+efficiently.
+PART 6 – INTERIM MEASURES AND PRELIMINARY
+ORDERS
+21 Power of arbitral tribunal to order interim measures
+(1) Unless otherwise agreed by the parties, the arbitral tribunal may, at the request
+of a party, grant interim measures.
+(2) For the purposes of this Part, “interim measures”” means any temporary
+measure.
+(3) An interim measure is any temporary measure, whether in the form of an award
+or in another form, by which, at any time prior to the issuance of the award by
+which the dispute is finally decided, the arbitral tribunal orders a party to –
+to Act 21 of 2020 Page 15
+Section 22 International Arbitration Act 2020
+(a) maintain or restore the status quo pending determination of the dispute;
+(b) take action that would prevent, or refrain from taking action that is likely
+to cause, current or imminent harm or prejudice to the arbitral process
+itself;
+(c) provide a means of preserving assets out of which a subsequent award
+may be satisfied; or
+(d) preserve evidence that may be relevant and material to the resolution of
+the disputes.
+22 Conditions for granting interim measures
+(1) The party requesting an interim measure under section 21 (2) (a), (b) and (c)
+shall satisfy the arbitral tribunal that –
+(a) harm not adequately reparable by an award of damages is likely to result
+if the measure is not ordered, and such harm substantially outweighs the
+harm that is likely to result to the party against whom the measure is
+directed if the measure is granted; and
+(b) there is a reasonable possibility that the requesting party will succeed on
+the merits of the claim.
+(2) A determination under sub-section (1) (b) shall not affect the discretion of the
+arbitral tribunal in making any subsequent determination.
+(3) Where there is a request for an interim measure under section 21(2)(d), the
+requirements in sub-section (1) (a) and (b) shall apply only to the extent the
+arbitral tribunal considers appropriate.
+23 Applications for preliminary orders and conditions for granting
+preliminary orders
+(1) Unless otherwise agreed by the parties, a party may, without notice to any other
+party, make a request for an interim measure together with an application for a
+preliminary order directing a party not to frustrate the purpose of the interim
+measure requested.
+(2) The arbitral tribunal may grant a preliminary order provided it considers that
+prior disclosure of the request for the interim measure to the party against whom
+it is directed risks frustrating the purpose of the measure.
+(3) The conditions defined under section 22 apply to any preliminary order,
+provided that the harm to be assessed under section 22 (1) (a), is the harm likely
+to result from the order being granted or not.
+Page 16 Act 21 of 2020 to
+International Arbitration Act 2020 Section 24
+24 Specific regime for preliminary orders
+(1) After the arbitral tribunal has made a determination in respect of an application
+for a preliminary order, the arbitral tribunal shall immediately give notice to all
+parties of –
+(a) the request for the interim measure;
+(b) the application for the preliminary order;
+(c) the preliminary order, if any; and
+(d) all other communications, including by indicating the content of any oral
+communication, between any party and the arbitral tribunal in relation
+thereto.
+(2) At the same time, the arbitral tribunal shall give an opportunity to any party
+against whom a preliminary order is directed to present its case at the earliest
+practicable time.
+(3) The arbitral tribunal shall decide promptly on any objection to the preliminary
+order.
+(4) A preliminary order shall expire after 20 days from the date on which it was
+issued by the arbitral tribunal.
+(5) The arbitral tribunal may issue an interim measure adopting or modifying the
+preliminary order, after the party against whom the preliminary order is directed
+has been given notice and an opportunity to present its case.
+(6) A preliminary order shall be binding on the parties but shall not be subject to
+enforcement by a court.
+(7) A preliminary order does not constitute an award.
+25 Modification, suspension and termination
+The arbitral tribunal may modify, suspend or terminate an interim measure or a
+preliminary order it has granted, upon application of any party or, in exceptional
+circumstances and upon prior notice to the parties, on the arbitral tribunal’s own
+initiative.
+26 Provision of security
+(1) The arbitral tribunal may require the party requesting an interim measure to
+provide appropriate security in connection with the measure.
+(2) The arbitral tribunal shall require the party applying for a preliminary order to
+provide security in connection with the order unless the arbitral tribunal
+considers it inappropriate or unnecessary to do so.
+to Act 21 of 2020 Page 17
+Section 27 International Arbitration Act 2020
+27 Disclosure
+(1) The arbitral tribunal may require any party promptly to disclose any material
+change in the circumstances on the basis of which the measure was requested
+or granted.
+(2) The party applying for a preliminary order shall disclose to the arbitral tribunal
+all circumstances that are likely to be relevant to the arbitral tribunal’s
+determination whether to grant or maintain the order, and such obligation shall
+continue until the party against whom the order has been requested has had an
+opportunity to present its case.
+(3) Sub-section (1) shall apply after a party has met the requirements under sub-
+section (2).
+28 Costs and damages
+(1) The party requesting an interim measure or applying for a preliminary order
+shall be liable for any costs and damages caused by the measure or the order to
+any party if the arbitral tribunal later determines that, in the circumstances, the
+measure or the order should not have been granted.
+(2) The arbitral tribunal may award such costs and damages at any point during the
+proceedings.
+29 Recognition and enforcement of an interim measure
+(1) An interim measure issued by an arbitral tribunal, irrespective of the country in
+which it was issued, shall be recognised as binding and, unless otherwise
+provided by the arbitral tribunal, enforced upon application to the court, subject
+to section 30.
+(2) The party who is seeking or has obtained recognition or enforcement of an
+interim measure shall promptly inform the court of any termination, suspension
+or modification of that interim measure.
+(3) The court where recognition or enforcement is sought may, if it considers it
+proper, order the requesting party to provide appropriate security if the arbitral
+tribunal has not already made a determination with respect to security or where
+such a decision is necessary to protect the rights of third parties.
+30 Grounds for refusing recognition or enforcement of an interim measure
+(1) Recognition or enforcement of an interim measure may be refused only –
+(a) at the request of the party against whom it is invoked if the court is
+satisfied that –
+(i) such refusal is warranted on the grounds set forth in
+section 60(1)(a)(i) - (iv); or
+Page 18 Act 21 of 2020 to
+International Arbitration Act 2020 Section 31
+(ii) the arbitral tribunal’s decision with respect to the provision of
+security in connection with the interim measure issued by the
+arbitral tribunal has not been complied with; or
+(iii) the interim measure has been terminated or suspended by the
+arbitral tribunal or, where so empowered, by the court of the
+country in which the arbitration takes place or under the law of
+which that interim measure was granted; or
+(b) if the court finds that —
+(i) the interim measure is incompatible with the powers conferred
+upon the court unless the court decides to reformulate the interim
+measure to the extent necessary to adapt it to its own powers and
+procedures for the purposes of enforcing that interim measure and
+without modifying its substance; or
+(ii) any of the grounds set forth in section 60 (1) (b) (i) or (ii), apply
+to the recognition and enforcement of the interim measure.
+(2) Any determination made by the court on any ground in sub-section (1) shall be
+effective only for the purposes of the application to recognise and enforce the
+interim measure.
+(3) The court shall not undertake a review of the substance of the interim measure
+when making a determination under sub-section (2).
+31 Court ordered interim measures
+The court shall apply its own rules when granting an interim measure, in relation to
+arbitration proceedings regardless of whether the place of arbitration is Tonga.
+PART 7 – CONDUCT OF ARBITRAL PROCEEDINGS
+32 Consolidation of proceedings and concurrent hearings
+(1) The parties are free to agree —
+(a) that the arbitral proceedings shall be consolidated with other arbitral
+proceedings; or
+(b) that concurrent hearings shall be held on such terms as may be agreed.
+(2) Unless the parties agree to confer such power on the tribunal, the tribunal has
+no power to order consolidation of proceedings or concurrent hearings.
+33 Equal treatment of parties
+The parties shall be treated equally and shall be given an opportunity to present his
+case.
+to Act 21 of 2020 Page 19

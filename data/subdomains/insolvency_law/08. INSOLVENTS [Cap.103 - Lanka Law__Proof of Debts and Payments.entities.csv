@@ -1,0 +1,39 @@
+entity,label
+103,CARDINAL
+two,CARDINAL
+any co- months,DATE
+two,CARDINAL
+years,DATE
+three months,DATE
+one year,DATE
+three months,DATE
+one year,DATE
+one year,DATE
+119,CARDINAL
+120,CARDINAL
+one year,DATE
+treasury,ORG
+122,CARDINAL
+121,CARDINAL
+123,CARDINAL
+126,CARDINAL
+ten,CARDINAL
+ten,CARDINAL
+ten,CARDINAL
+ten,CARDINAL
+127,CARDINAL
+124,CARDINAL
+forthwith,PERSON
+in &c.,ORG
+twenty-one days',DATE
+three clear days',DATE
+one month,DATE
+128,CARDINAL
+125,CARDINAL
+129,CARDINAL
+six months,DATE
+130,CARDINAL
+two,CARDINAL
+131,CARDINAL
+133,CARDINAL
+132,CARDINAL
