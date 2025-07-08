@@ -10,3 +10,4 @@ sentence-transformers
 fpdf
 numpy
 pypdf2
+faiss-cpu
