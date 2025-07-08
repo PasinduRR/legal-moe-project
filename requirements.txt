@@ -5,3 +5,8 @@ networkx
 spacy
 flask
 jupyter
+pdfplumber
+sentence-transformers
+fpdf
+numpy
+pypdf2
