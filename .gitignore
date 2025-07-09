@@ -1,40 +1,20 @@
-# Python Virtual Environment
-/venv
-/.venv
-
-# Python Cache and Compiled Files
+# Python
 __pycache__/
-*.py[cod]
-
-# Jupyter Notebook Checkpoints
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+.venv/
+venv/
+# Jupyter Notebook
 .ipynb_checkpoints/
-
-# IDE and Editor Configuration
-.vscode/
-.idea/
-
-# OS-specific Files
-.DS_Store
-Thumbs.db
-
-# Generated Data, Embeddings, and Indices
-# These are outputs of your scripts and should not be versioned.
+# Data
+data/*.npy
+data/gating_model.pt
+data/gating_train.csv
+data/extracted_texts/
+data/raw_pdfs/
 data/subdomains/
-data/gating_queries/
-data/**/*.npy
-data/**/*.index
-data/pairs.csv
-data/subdomain_map.json
 
-# Trained Models (large binary files)
-*.pt
-*.pth
-data/gating_network.pt
-
-# Logs and Temporary Files
-*.log
-*.tmp
-
-# --- EXCEPTIONS ---
-# Keep the manually curated gating network training data
 !data/gating_train.csv
