@@ -16,5 +16,6 @@ data/gating_train.csv
 data/extracted_texts/
 data/raw_pdfs/
 data/subdomains/
+data/gating_queries/
 
 !data/gating_train.csv
