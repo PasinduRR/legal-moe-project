@@ -1,0 +1,347 @@
+320 Companies Act, No. 07 of 2007
+(3) An order under this section shall not prejudice or
+prevent—
+(a) the implementation of a compromise or arrangement
+approved under Part IX or Part X of this Act; or
+(b) where the application for the order was made more
+than twenty working days after the approval of any
+proposals or any revised proposals under section
+407 or section 409, as the case may be, the
+implementation of those proposals or revised
+proposals.
+Application to 426. (1) The provisions contained in sections 453, 454,
+administrator of 460, 468, 469 and 470 shall apply to an administrator and to
+provisions
+a company under administration with all necessary
+relating to
+receivers. modifications, and in particular as if—
+(a) the administrator were a receiver appointed by the
+court ;
+(b) references to the property in receivership were
+references to the property and undertaking of the
+company ; and
+(c) references to the grantor were references to the
+company.
+PART XIV
+FLOATING CHARGES
+Company may 427. (1) A company may grant a charge to which this
+grant floating Part of this Act applies (in this Act referred to as a “floating
+charge. charge”) over the whole or any part of the property and
+undertaking of the company, for the purpose of securing a
+debt or any other obligation incurred or to be incurred by the
+company or any other person.
+Companies Act, No. 07 of 2007 321
+(2) A floating charge may apply to any property of the
+company whether held by the company at the time of creation
+of the floating charge or acquired thereafter, including—
+(a) movable and immovable property ;
+(b) uncalled capital ;
+(c) circulating assets, including cash, stock in trade,
+raw materials, book debts and other receivables.
+(3) A floating charge created under this Part of this Act
+shall, notwithstanding the provisions contained in any other
+law, have effect as a security over the property of the company
+to which it is expressed to apply, in the manner and to the
+extent specified in this Part—
+(a) subject to the provisions of the Registration of
+Documents Ordinance (Cap. 117) where applicable;
+and
+(b) subject to section 103 of the Mortgage Act (Cap.
+89).
+428. (1) A floating charge may be created by a company Instrument
+only by the execution under the name of the company in creating floating
+charge.
+accordance with the provisions of paragraph (a) of subsection
+(1) of section 19, of an instrument which is expressed to
+create such a charge.
+(2) An instrument which creates a floating charge over
+property which includes land, shall be registrered under the
+Registration of Documents Ordinance (Cap. 117) as an
+instrument affecting that land.
+(3) An instrument which creates a floating charge over
+property which includes movable property, shall be registered
+under the Registration of Documents Ordinance (Cap. 117)
+as if it were a bill of sale. Where the floating charge also
+322 Companies Act, No. 07 of 2007
+includes land, the provisions of sections 16 to 22 of the
+Registration of Decuments Ordinance (Cap. 117) shall not in
+any way affect the instrument, in so far as it relates to land.
+(4) The provisions of sections 17 and 20 of the
+Registration of Documents Ordinance (Cap. 117) shall apply
+in relation to a floating charge, as if registration of that
+floating charge—
+(a) under Chapter IV of that Ordinance in the district in
+which the registered office of the company is
+situated; and
+(b) under Part VI of this Act,
+were registration under Chapter IV of that Ordinance, in every
+district in Sri Lanka.
+(5) For the avoidance of doubt, nothing in section 63 of
+the Mortgage Act (Cap. 89) shall apply to or in relation to
+any instrument creating a floating charge.
+Provisions of 429. (1) The terms specified in the Eleventh Schedule
+instrument hereto shall be implied terms of every instrument which
+creating floating
+creates a floating charge, except to the extent that the terms
+charge.
+of any such instrument expressly exclude or are inconsistent
+with those implied terms.
+(2) An instrument creating a floating charge may contain—
+(a) provisions prohibiting or restricting the creation of
+any fixed security or any other floating charge
+having priority over or ranking equally with the
+floating charge ; or
+(b) provisions regulating the order in which the floating
+charge shall rank with any other subsisting or future
+floating charges or fixed securities over that
+property or any part of it.
+Companies Act, No. 07 of 2007 323
+430. (1) Subject to the terms of the instrument under Dealing with
+which it is created, the creation of a floating charge in respect property subject
+to floating
+of any property shall not affect the ability of the company to
+charge before
+deal with that property in the normal course of business.
+attachment.
+(2) Where—
+(a) any property of a company is subject to a floating
+charge which has not attached to that property ; and
+(b) the company has sold or disposed of that property,
+any person who receives that property from the company
+shall be liable to account to the person entitled to the benefit
+of the floating charge for the value of the property, in the
+circumstances set out in subsection (3) or subsection (4).
+(3) A person may be liable to account for the value of
+property received by that person under subsection (2), if—
+(a) the sale or disposal of the property did not take place
+in the normal course of the company’s business ;
+and
+(b) that person knew or by reason of his relationship
+with the company ought to have known, that the
+sale or disposal did not take place in the normal
+course of the company’s business.
+(4) A person may be liable to account for the value of
+property received by that person under subsection (2), if—
+(a) the sale or disposal of the property is a breach of the
+instrument creating the floating charge ; and
+(b) that person knew or by reason of his relationship
+with the company ought to have known, of the terms
+of the instrument and the circumstances giving rise
+to a breach of those terms.
+324 Companies Act, No. 07 of 2007
+Ranking of 431. (1) Where any property of a company is subject
+floating both to a floating charge and to a fixed security arising by
+charges.
+operation of law, the fixed security shall have priority over
+the floating charge.
+(2) Where any property of a company is subject both to a
+floating charge and to a fixed security granted by the company,
+the fixed security shall have priority over the floating charge,
+unless—
+(a) the instrument creating the floating charge—
+(i) prohibited the granting by the company of
+that fixed security ; and
+(ii) had been registered under Part VI of this Act
+before the date on which the fixed security
+was granted by the company ; or
+(b) the instrument creating the floating charge is
+expressed to take priority over the fixed security,
+and the person entitled to the benefit of the fixed
+security has consented in writing to that priority ; or
+(c) before the date on which the fixed security was
+granted by the company, the floating charge had
+attached to the property pursuant to section 433
+and either—
+(i) a receiver had been appointed in respect of
+the property and the person to whom the fixed
+security was granted had notice of the
+appointment of the receiver ; or
+(ii) the person to whom the fixed security was
+granted knew or by reason of his relationship
+with the company ought to have known,
+that—
+(A) the floating charge had attached to that
+property ;
+Companies Act, No. 07 of 2007 325
+(B) the grant of the fixed security was a
+breach of the instrument creating the
+floating charge ; or
+(C) the grant of the fixed security did not
+occur in the normal course of the
+company’s business.
+(3) Where any property of a company is subject to more
+than one floating charge, those floating charges shall rank
+among themselves according to the date of registration under
+Part VI, subject to any provision to the contrary in an
+instrument creating a floating charge which has been
+consented to in writing by the person entitled to the benefit
+of the floating charge, the priority of which is postponed by
+that provision.
+(4) For the avoidance of doubt and subject to the terms of
+the instrument under which it is created, the priority of a
+floating charge shall not be affected by the fact that all or any
+part of the debts or obligations secured by that floating charge,
+were incurred or arose after —
+(a) the creation and registration by the company of a
+subsequent floating charge ; or
+(b) the grant by the company of any fixed security in
+respect of the whole or any part of the property
+comprised in the floating charge.
+(5) A person shall be deemed to have received notice of
+the appointment of a receiver for the purposes of subsection
+(2), if—
+(a) the person knows or ought by reason of his
+relationship with the company to know that a
+receiver has been appointed ; or
+(b) public notice of the appointment of the receiver has
+been given in accordance with paragraph (b) of
+subsection (1) of section 440.
+326 Companies Act, No. 07 of 2007
+(6) Without limiting the provisions contained in
+subsection (3) of section 427, where land owned by a company
+is subject to a floating charge and to a fixed security which
+has been registered under the Registration of Documents
+Ordinance (Cap. 117), the fixed charge shall have priority
+over the floating charge, unless the floating charge was
+registered in repsect of that land under the Registration of
+Documents Ordinance (Cap. 117) prior to the registration of
+the fixed security.
+Alteration and 432. (1) The terms of an instrument creating a floating
+discharge of charge may be varied in the same manner in which an
+floating charges. instrument may be executed by the company.
+(2) Subject to the modifications contained in subsection
+(3) of this section subsections (1) and (3) of section 102,
+sections 103 and 108 shall apply to an instrument of
+alteration under this section, which—
+(a) prohibits or restricts creation of any fixed security
+or any other floating charge having priority over or
+ranking equally with the floating charge ;
+(b) varies or otherwise regulates the order of and the
+ranking of the floating charge in relation to fixed
+securities or to other floating charges ;
+(c) releases property from the floating charge ; or
+(d) where the floating charge secures a specified
+obligation or a specified amount, alters that
+obligation or increases that amount, as the case may
+be.
+(3) The provisions of subsections (1) and (3) of sections
+102, 103 and 108 shall apply in respect of an instrument of
+alteration to which subsection (2) applies, as if—
+(a) references to a charge were references to an alteration
+to a floating charge ; and
+Companies Act, No. 07 of 2007 327
+(b) references to the creation of a charge, were references
+to the execution of the instrument of alteration.
+(4) Where an alteration to the terms of an instrument
+creating a floating charge has the effect of extending the
+floating charge to property not previously comprised in the
+floating charge, the priority of the floating charge in respect
+of the additional property shall be determined, as if the
+instrument by which the amendments were affected were an
+instrument creating a new floating charge in respect of that
+additional property.
+(5) A floating charge may be released in respect of the
+whole or any part of the property comprised in it, in the same
+manner in which such a charge may be created.
+433. (1) A floating charge shall attach to and constitute Circumstances in
+a fixed charge in respect of all property comprised in the which floating
+charge attaches
+charge, on the occurrence of any of the following events :—
+to property.
+(a) the appointment of a receiver of the whole or any
+part of the property or undertaking of the company,
+whether under the terms of the instrument creating
+the floating charge or otherwise ;
+(b) the commencement of the winding up of the
+company ;
+(c) the disposal by the company of the whole or any
+part of its undertaking, other than in the normal
+course of its business ;
+(d) the company ceasing to carry on business ;
+(e) any other event the occurrence of which is expressed
+in the instrument creating the floating charge to
+have the effect of causing that charge to attach to
+the property comprised in it.
+328 Companies Act, No. 07 of 2007
+(2) Where—
+(a) a floating charge has attached to any property of a
+company ; and
+(b) the company sells or otherwise disposes of any
+property to which the charge has attached,
+the person to whom the property is sold or otherwise disposed
+of, shall be liable to account to the person entitled to the
+benefit of the floating charge for the value of the property,
+if—
+(c) a receiver had been appointed in respect of the
+property and that person had notice of the
+appointment of the receiver ; or
+(d) that person knew or ought by reason of his
+relationship with the company to have known
+that—
+(i) the floating charge had attached to that
+property ;
+(ii) the sale or disposal was a breach of the
+instrument creating the floating charge ; or
+(iii) the sale or disposal did not occur in the normal
+course of the company’s business.
+(3) Nothing in subsection (2) shall apply to a sale of
+property—
+(a) by or under the authority of a receiver appointed in
+respect of the property, by the person entitled to the
+benefit of the floating charge ;
+Companies Act, No. 07 of 2007 329
+(b) pursuant to a floating charge or other security in
+respect of the property which ranks prior to the
+floating charge, to the benefit of which the person
+making the claim is entitled ; or
+(c) by the court.
+(4) A person who is liable to account to the holder of a
+floating charge for the value of property disposed of by the
+company, shall be given credit for the value of any
+consideration provided to the company for that property
+which has become available to the holder of the floating
+charge, in substitution for that property.
+(5) A person shall be deemed to have received notice of
+the appointment of receiver for the purposes of subsection
+(2), if—
+(a) the person knows or ought by reason of his
+relationship with the company to know, that a
+receiver has been appointed ; or
+(b) public notice of the appointment of the receiver has
+been given is accordance with paragraph (b) of
+subsection (1) of section 440.
+(6) For the avoidance of doubt, where a floating charge
+has become a fixed charge under this section, the grantee
+may without prejudice to any right he may have to appoint a
+receiver under Part XV, exercise any other remedy which is
+available to the holder of a fixed charge under the Mortgage
+Act (Cap. 89) or under any other written law.
+330 Companies Act, No. 07 of 2007
+PART XV
+RECEIVERS AND MANAGERS
+Interpretation. 434. (1) In this Part of this Act, unless the context
+otherwise requires—
+“creditor” includes a person to whom the grantor owes
+a debt or is under a liability, whether present or
+future, certain or contingent and whether an
+ascertained debt or liability or a liability in
+damages ;
+“grantee” means in relation to an instrument which
+creates a floating charge, the person entitled to the
+benefit of the instrument ;
+“grantor” means the person in respect of whose property
+a receiver is or may be appointed ;
+“liquidator” means a liquidator appointed under
+Part XII ;
+“mortgage” includes a charge on property for securing
+money or money’s worth ;
+“mortgagee” includes a person from time to time
+deriving title under the original mortgagee, but
+does not include a receiver ;
+“preferential claims” means the claims referred to in
+the Ninth Schedule (except paragraph 1 of that
+Schedule) ;
+“property” includes—
+(a) movable and immovable property ;
+(b) an interest in movable or immovable
+property ;

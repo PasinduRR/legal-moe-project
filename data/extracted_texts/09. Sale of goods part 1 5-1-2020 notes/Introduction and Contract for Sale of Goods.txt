@@ -1,0 +1,95 @@
+EDABS 301 - Law in Business (2019/2020)
+Lecturer: Shanila H. Gunawardena [ LL.B. (Hons.) (Colombo), Attorney-at-Law, CTA (CASL)]
+SALE OF GOODS
+(1) INTRODUCTION
+In ancient times, “barter” (exchange of one item for another) was common. Sale of goods is the most
+common way in which ownership of goods passes from one person (i.e. the seller) to another (i.e.
+buyer). The applicable law in this connection is the Sale of Goods Ordinance No. 11 of 1896 (as
+amended). This is identical to the English Law.
+(2) A CONTRACT FOR SALE OF GOODS
+- Section 2(1) – A contract of sale of goods is a contract whereby the seller transfers or agrees to
+transfer the property in goods to the buyer for a money consideration, called " the price". There
+may be a contract of sale between one part-owner and another.
+- Section 2(3) - difference between a “sale” and an “agreement to sell”.
+Sale – when the property in the goods are transferred.
+Agreement to sell – when the transfer of property takes place at a future time or subject to some
+condition.
+- Section 2(4) – An agreement to sell becomes a sale when time lapses or the conditions are fulfilled.
+- The most important elements in a sale of goods contract are:
+(a) the goods;
+(b) the money consideration; and
+(c) the capacity to contract.
+(3) WHAT ARE “GOODS”?
+- Section 59 –
+“goods" include all movables except moneys. The term includes growing crops and things
+attached to or forming part of the land which are agreed to be severed before sale or under
+the contract of sale.
+- Anything attached/ forming part of a land or building:
+If any item which is part of a land or building cannot be severed and taken out without damaging it,
+it is a “fixture”; not a “good”.
+- Music – becomes a good only when it is recorded or published.
+- Lecture or talk – becomes a good only when the lecturer or speaker publishes it in a book or
+journal.
+- Computer software – despite its inherent intellectual characteristics, it is a good.
+Australian Case - Toby Constructions Products Pty Ltd vs. Computer Bar (Sales) Pty Ltd (1983) 2 NSWLR
+48
+- Gas and Electricity - there is a debate as to whether gas and electricity are considered as goods or
+services. In terms of the VAT Act, electricity is a service and gas is a good.
+- Commemorative coins and currency notes (collectors’ items) are also considered as goods (but not
+money).
+(4) CONSIDERATION
+- Consideration for the sale of goods must be money. Otherwise, the contract is one of barter or
+exchange.
+- However, consideration could be partly in money and partly in goods or some other articles of
+value. E.g. motor cars being sold in consideration of the buyer “trading in” his used car as well as
+paying some money for the new car.
+1
+EDABS 301 - Law in Business (2019/2020)
+Lecturer: Shanila H. Gunawardena [ LL.B. (Hons.) (Colombo), Attorney-at-Law, CTA (CASL)]
+(5) CAPACITY TO BUY AND SELL
+- Section 3
+“Capacity to buy and sell is regulated by the general law concerning capacity to contract, and to
+transfer and acquire property:
+Provided that where necessaries are sold and delivered to a minor, or to a person who by reason of
+mental incapacity or drunkenness is incompetent to contract, he must pay a reasonable price
+therefor.
+‘Necessaries’ in this section means goods suitable to the condition in life of such minor or other
+person, and to his actual requirements at the time of the sale and delivery.”
+(6) WHAT IS NOT A CONTRACT FOR SALE OF GOODS?
+- Contract for work and material:
+• The main difference here is that the main subject matter as to whether it involves “goods” or
+“skills”.
+• A contract for the sale of goods contemplates the delivery of a movable item. However, if the
+substance of the contract is for the exercise of some skill and the delivery of the movable is only
+a subsidiary part of the contract, there is no sale of goods.
+• English case - Robinson vs. Graves (1935) – painting a portrait plus supplying the canvass and other
+material was held to be a contract for work and materials and not a contract for sale of goods.
+- Contract of hire purchase/ lease:
+• The hirer does not “agree to buy”. The owner agrees to sell only if the hirer performs all
+necessary conditions. E.g. payment of installments due.
+(7) FORMALITIES REQUIRED FOR A CONTRACT OF SALE OF GOODS
+- Section 4 –
+A contract for the sale of goods can be made:
+• in writing; or
+• by word of mouth (verbally); or
+• partly in writing and partly by word of mouth (verbally); or
+• implied by the conduct of the parties.
+(8) SUBJECT MATTER OF THE CONTRACT
+- “Existing Goods” vs. “Future Goods”
+Section 6(1) – The goods which form the subject of a contract of sale may be either existing
+goods, owned or possessed by the seller, or goods to be manufactured or acquired by the seller
+after the making of the contract of sale (future goods as defined in Section 59).
+- Section 7 – Where there is a contract for the sale of specific goods (specific goods defined in
+Section 59 as goods identified and agreed upon at the time a contract of sale is made), and the
+goods without the knowledge of the seller have perished at the time when the contract is made, the
+contract is void.
+- Section 8 – Where there is an agreement to sell specific goods, and subsequently the goods
+without any fault on the part of the seller or buyer perish before the risk passes to the buyer, the
+agreement is thereby avoided.
+(9) IMPLIED CONDITIONS
+- Implied conditions as to title - section 13(a):
+• The seller has the right to sell the goods [Section 13(a)].
+The seller must have title to the goods. In the English case of Rowland vs. Divall (1923) 2 KB 500,
+Rowland bought a motor-car from Divall and used it for four months. Divall had no title to the
+car, and consequently Rowland had to surrender it to the true owner. Rowland sued to recover
+2

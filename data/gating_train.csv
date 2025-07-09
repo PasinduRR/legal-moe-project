@@ -1,0 +1,38 @@
+query,query_embedding_path,expert_label
+What are the requirements for bank licensing?,../data/gating_queries/query_1.embedding.npy,banking_law
+How can a foreign bank operate in Sri Lanka?,../data/gating_queries/query_2.embedding.npy,banking_law
+What is the minimum capital for a commercial bank?,../data/gating_queries/query_3.embedding.npy,banking_law
+What are the rules for suspension of a bank license?,../data/gating_queries/query_4.embedding.npy,banking_law
+How is abandoned property in banks handled?,../data/gating_queries/query_5.embedding.npy,banking_law
+How do I register a new company?,../data/gating_queries/query_6.embedding.npy,company_law
+What are the duties of company directors?,../data/gating_queries/query_7.embedding.npy,company_law
+How can a company be amalgamated?,../data/gating_queries/query_8.embedding.npy,company_law
+What is the process for winding up a company?,../data/gating_queries/query_9.embedding.npy,company_law
+How are company articles of association amended?,../data/gating_queries/query_10.embedding.npy,company_law
+How do I file a corporate tax return?,../data/gating_queries/query_11.embedding.npy,tax_law
+What is the penalty for late tax payment?,../data/gating_queries/query_12.embedding.npy,tax_law
+How are capital gains taxed?,../data/gating_queries/query_13.embedding.npy,tax_law
+What are the exemptions under the Inland Revenue Act?,../data/gating_queries/query_14.embedding.npy,tax_law
+How is withholding tax calculated?,../data/gating_queries/query_15.embedding.npy,tax_law
+What is the arbitration procedure in Sri Lanka?,../data/gating_queries/query_16.embedding.npy,arbitration_law
+How can an arbitral award be enforced?,../data/gating_queries/query_17.embedding.npy,arbitration_law
+What are the grounds for setting aside an arbitration award?,../data/gating_queries/query_18.embedding.npy,arbitration_law
+What rights do consumers have against unfair trade practices?,../data/gating_queries/query_19.embedding.npy,consumer_law
+How can a consumer file a complaint?,../data/gating_queries/query_20.embedding.npy,consumer_law
+What is the process for declaring bankruptcy?,../data/gating_queries/query_21.embedding.npy,insolvency_law
+How are insolvent estates distributed?,../data/gating_queries/query_22.embedding.npy,insolvency_law
+How do I register a trademark?,../data/gating_queries/query_23.embedding.npy,ip_law
+What is the duration of copyright protection?,../data/gating_queries/query_24.embedding.npy,ip_law
+What is a bill of exchange?,../data/gating_queries/query_25.embedding.npy,negotiable_instruments_law
+How are promissory notes endorsed?,../data/gating_queries/query_26.embedding.npy,negotiable_instruments_law
+What is insider trading?,../data/gating_queries/query_27.embedding.npy,securities_law
+How are securities exchanges regulated?,../data/gating_queries/query_28.embedding.npy,securities_law
+What are the duties of a trustee?,../data/gating_queries/query_29.embedding.npy,trust_law
+Are electronic contracts legally valid in Sri Lanka?,../data/gating_queries/query_30.embedding.npy,electronic_transactions_law
+What are the restrictions on foreign currency transactions?,../data/gating_queries/query_31.embedding.npy,foreign_exchange_law
+What are the essential elements of a valid contract?,../data/gating_queries/query_32.embedding.npy,contract_law
+How is a contract terminated?,../data/gating_queries/query_33.embedding.npy,contract_law
+What remedies are available for breach of contract?,../data/gating_queries/query_34.embedding.npy,contract_law
+What is the difference between void and voidable contracts?,../data/gating_queries/query_35.embedding.npy,contract_law
+How does offer and acceptance work in contract formation?,../data/gating_queries/query_36.embedding.npy,contract_law
+What is contract law?,../data/gating_queries/query_37.embedding.npy,contract_law

@@ -1,0 +1,404 @@
+Securities and Exchange Commission of 123
+Sri Lanka Act, No. 19 of 2021
+CHAPTER 1
+PROVISIONS RELATING TO IMPLEMENTATION
+165. (1) The Commission or a person authorised by the Production of
+Commission may by notice in writing require any person documents and
+disclosure of
+within such period as specified in the notice to furnish any
+information
+information or produce any document or electronic record
+(other than any information or document which is prohibited
+from being disclosed or produced under any law relating to
+the imposition and recovery of any tax) as specified in such
+notice and as the Commission may consider necessary for
+the proper exercise of its powers or the discharge of its
+functions under this Act.
+(2) It shall be the duty of any person who receives a
+notice under subsection (1) to comply with the requirements
+of such notice within the period specified therein and, where
+in compliance with such notice such person discloses any
+information or produces any document or electronic record
+which he is prohibited from doing under any law, such
+disclosure or production shall notwithstanding anything to
+the contrary in such law not be deemed to be a contravention
+of the provisions of such law.
+(3) Any information furnished or the contents of a
+document or an electronic record produced in compliance
+with a notice issued under this section shall not be published
+or communicated by the Commission to any other person
+except–
+(a) by an order of court; or
+(b) in the course of the discharge of the functions of
+the Commission; or
+(c) with the consent of the person furnishing such
+information, document or electronic record.
+124 Securities and Exchange Commission of
+Sri Lanka Act, No. 19 of 2021
+(4) The consent under paragraph (c) of subsection (3) is
+not required when the person furnishing the information,
+document or electronic record is being investigated by the
+Commission for a breach of any provision of this Act or any
+regulation, rule or directive made thereunder.
+Inquiries and 166. (1) Notwithstanding anything to the contrary
+investigations contained in the Code of Criminal Procedure Act, No. 15 of
+1979, the Commission or any person duly authorised by the
+Commission, may hold inquiries or carry out investigations
+as it may consider necessary or expedient for the exercise,
+performance and discharge of the powers, duties and
+functions of the Commission under this Act.
+(2) For the purposes of subsection (1), the Commission
+or any person authorised by the Commission may, summon
+and call upon any person to appear before it or him to give
+evidence or to produce any book or document in the
+possession or control of such person as are required for the
+purpose of such investigation or inquiry, where the
+Commission has reasonable grounds to believe that—
+(a) the transactions in securities are being dealt with in
+a manner detrimental to investors or the securities
+market by any person; or
+(b) any market institution, market intermediary,
+investor or any other person has violated any of the
+provisions of this Act, regulations or the rules made
+thereunder or the directives issued by the
+Commission.
+(3) Any person summoned or called upon to appear
+before the Commission or any person duly authorised by
+the Commission under subsection (2) may be examined
+orally and any statement made by the person so examined
+may be in writing. Every such statement in writing shall be
+signed by the person so examined provided that prior to
+signing the same, such person shall be required to read such
+statement or if he does not understand the language in which
+it is written it shall be interpreted to him in a language he
+understands and he shall be at liberty to explain or add to
+such statement.
+Securities and Exchange Commission of 125
+Sri Lanka Act, No. 19 of 2021
+(4) Every person who fails to appear before the
+Commission or the person authorised, when required to do
+so under subsection (2) or who refuses to answer any question
+put to him by the Commission or a person duly authorised
+by the Commission or any person who refuses to produce or
+allow the Commission or any person duly authorised to take
+copies of any book, document or electronic record in his
+possession or control when required to do so or knowingly
+gives any false answer to any question put to him by the
+Commission or a person duly authorised by the Commission
+commits an offence.
+(5) (a) For the purpose of carrying out an inquiry or
+investigation under subsection (1), the Commission may
+authorise in writing any officer and any expert recognised
+under the Computer Crimes Act, No. 24 of 2007, as may be
+required to enter at all reasonable hours of the day any
+premises of a market institution or market intermediary or
+listed public company to inspect and take copies of any
+document or electronic record or take into possession any
+electronic device required to be kept under this Act or under
+any regulation or rule or directive made thereunder or any
+other law in respect of such business and where the
+Commission has reasonable grounds to believe that such
+information may be required in discharging its duties under
+the Act, to access their computer systems to collect evidence.
+(b) For the purpose of carrying out an inquiry or an
+investigation under subsection (1), it shall be lawful for the
+Commission or any person authorised by the Commission
+upon an order issued by Magistrate’s court to have access to
+any other premises not specified in paragraph (a) and inspect
+any property, book, document, article, thing or electronic
+record or device or otherwise in any form whatsoever and
+seize or take possession of the copies of such book, document,
+article, thing or electronic record or otherwise in any form
+whatsoever provided it is deemed by such authorised persons
+to be material evidence for a successful investigation or
+inquiry under subsection (1).
+126 Securities and Exchange Commission of
+Sri Lanka Act, No. 19 of 2021
+(6) Every authorised officer under subsection (1) shall
+be deemed to be a peace officer within the meaning and for
+the purposes of the Code of Criminal Procedure Act, No. 15
+of 1979.
+(7) The provisions of the Computer Crimes Act, No. 24
+of 2007 shall mutatis mutandis apply in carrying out an
+inquiry or investigation under subsection (5) or any other
+section in this Act relating to electronic records or documents.
+(8) Notwithstanding anything to the contrary in any other
+written law where the Commission on a consideration of
+material collected in the course of an investigation or inquiry
+or both an inquiry and investigation as the case may be is
+satisfied that any person has committed an offence under
+this Act other than an offence under Part V, it may authorise
+the Director General to initiate criminal proceedings against
+such person or to take any other enforcement action as
+provided for under this Act.
+(9) Notwithstanding anything to the contrary in any other
+written law the Commission may if it deems appropriate
+forward the material collected and received under this Part
+to the Attorney General or any other authority to take any
+appropriate action under any other written law.
+Issue of freezing 167. (1) On reasonable suspicion of a contravention of
+orders any provision of this Act, regulations, rules or directives
+made thereunder, the Commission may, at any time where
+an inquiry is being carried out or a person is being
+investigated in terms of section 165, issue a directive
+(hereinafter referred to as a “freezing order”)-
+(a) prohibiting a person from disposing assets of such
+person or any part thereof which is related to the
+matter under inquiry or investigation; or
+(b) prohibiting a person from entering into any
+transaction or a class of transactions as may be
+determined by the Commission.
+Securities and Exchange Commission of 127
+Sri Lanka Act, No. 19 of 2021
+(2) A freezing order made under subsection (1) shall not
+be in force for a period exceeding seven market days from
+the date of issue of such order.
+(3) The Commission after issuing a freezing order under
+subsection (1), shall within the period during which the
+freezing order is in force, make an application to court seeking
+confirmation of such freezing order and also if circumstances
+so necessitates, request an extension thereto as required after
+giving the aggrieved person an opportunity of being heard.
+(4) Where the court is satisfied that there are sufficient
+reasons for issuance of such freezing order, the court may
+confirm the freezing order and if it is satisfied that there are
+sufficient reasons for extension thereof may, grant extensions
+for such periods as it considers appropriate.
+(5) On an application made by the Commission to court
+in terms of subsection (3), the court shall make an appropriate
+order in respect of the management of the asset under a
+freezing order.
+168. (1) The Commission shall establish a Complaints Inquiry by
+Resolution Committee to hear complaints by any person Complaints
+Resolution
+relating to the professional misconduct or the breach of any
+Committee
+provision of this Act, regulations, rules made thereunder or
+directives issued on a market institution, market
+intermediary, listed public company or a registered person
+or any other person who comes under the regulatory purview
+of the Commission.
+(2) The Commission or any person duly authorised by
+the Commission may hold such inquiries as it or he may
+consider necessary or expedient for the exercise, performance
+and discharge of the powers, duties and functions of the
+Commission under this Act and for such purpose summon
+and call upon any person to appear before the Complaints
+Resolution Committee to give evidence or to produce any
+books or documents in the possession or control of such
+person as are required for the purpose of such inquiries.
+128 Securities and Exchange Commission of
+Sri Lanka Act, No. 19 of 2021
+(3) The Commission shall establish appropriate processes
+and procedures for handling such complaints, and all matters
+related thereto by rules.
+(4) The Complaints Resolution Committee may on
+receipt of any written complaint made by a person, examine
+the evidence produced to find whether any provision of this
+Act, regulations, rules or directives made thereunder or any
+rules of a market institution has been contravened.
+(5) Where the Committee finds that a market institution,
+market intermediary, listed public company or registered
+person has contravened a provision under this Act, regulation,
+rule or directive issued thereunder or rules of a market
+institution, the Complaints Resolution Committee shall
+convey such finding with a recommendation to the
+Commission and the Commission shall have the discretion
+to either give effect to such recommendation or take any
+other action as it may deem expedient.
+(6) The Commission shall not take any action under this
+section without affording such market institution, market
+intermediary, listed public company or registered person an
+opportunity of being heard.
+Supplementary 169. (1) The Commission shall be entitled to seek
+Service information, clarification or explanation from supplementary
+Providers
+service providers in relation to professional services carried
+out in respect of a market institution, market intermediary or
+listed public company or an unlisted company which has
+made a public offer of securities in accordance with
+section 81.
+(2) Where the Commission is of the view that the services
+rendered in terms of subsection (1) is likely to cause harm to
+the interest of investors, the Commission may issue a
+directive to such supplementary service provider to take
+corrective action as may be determined by the Commission.
+Securities and Exchange Commission of 129
+Sri Lanka Act, No. 19 of 2021
+(3) The Commission may make guidelines or rules to
+provide for the duties and obligations of supplementary
+service providers where the Commission considers it
+necessary.
+170. The Commission may enter into agreements or Implementation
+memoranda of understanding with such other organisations of agreements or
+memoranda of
+in connection with the sharing of information on regulatory
+understanding
+functions relating to securities and investors in securities
+markets.
+171. (1) The Commission may on its own motion or upon Sharing of
+an order issued by a competent court of law- information and
+cooperation
+(a) permit a police officer or any public officer to have
+access to and inspect any property, book, document,
+article, thing or electronic record or otherwise in
+any form whatsoever which has been produced
+before, seized, detained or taken possession of by
+the Commission under this Act; or
+(b) provide to a police officer or any public officer a
+copy of any book, document or electronic record or
+otherwise in any form whatsoever seized, detained
+or taken possession of by an investigating officer
+or by any officer of the Commission in the course
+of any inspection carried out by the Commission in
+the exercise of its powers or in the discharge of his
+duties in respect of any person.
+(2) The Commission may, where it deems necessary, enter
+into regulatory arrangements to cooperate with any domestic
+or foreign supervisory authority which may include –
+(a) obtaining any information or document or
+electronic record from any domestic or foreign
+supervisory authority; and
+(b) share any information or document or electronic
+record with any domestic or foreign supervisory
+authority.
+130 Securities and Exchange Commission of
+Sri Lanka Act, No. 19 of 2021
+(3) The Commission may, upon receiving a written
+request from a foreign supervisory authority for assistance
+in respect of any regulatory matter which the foreign
+supervisory authority enforces or administers, provide such
+assistance to such foreign supervisory authority as the
+Commission deems fit for the purpose.
+(4) In determining whether to render assistance under
+subsection (3), the Commission shall have regard to-
+(a) whether the foreign supervisory authority shall pay
+the Commission any cost and expenses incurred
+for providing the foreign supervisory authority with
+the assistance; and
+(b) whether the foreign supervisory authority shall be
+able and willing to provide reciprocal assistance in
+response to a comparable request for assistance from
+the Commission.
+(5) In this section –
+“domestic supervisory authority” means
+the Central Bank of Sri Lanka
+established under the Monetary
+Law Act, Registrar General of
+Companies appointed under the
+Companies Act, No. 7 of 2007, the
+Police and any other regulatory
+authority under any written law;
+“foreign supervisory authority” means
+a foreign authority which
+exercises functions corresponding
+to the functions of the
+Commission under this Act or any
+person or international
+organisation outside Sri Lanka
+Securities and Exchange Commission of 131
+Sri Lanka Act, No. 19 of 2021
+exercising regulatory functions
+and in respect of which the
+Commission considers desirable
+and necessary in the interest of the
+public to enter into such
+arrangement or to render such
+assistance; and
+“Public Officer” shall have the meaning
+assigned to that expression by
+Article 170 of the Constitution.
+172. (1) An employer shall not discharge, terminate, Whistleblower
+demote or cause harassment to a person in employment on protection
+account of having provided information to the Commission
+concerning violations or potential violations of this Act,
+regulations, rules or directives made thereunder or any rule
+of a market institution.
+(2) Any employer who retaliates against such person for
+providing information to the Commission in terms of
+subsection (1) may be subjected to such administrative
+penalty as may be determined by the Commission by rules,
+after affording such person an opportunity of being heard.
+(3) For the purposes of this section, a “person in
+employment” includes a director, partner, chief executive
+officer, chief financial officer, company secretary, internal
+auditor or any other employee.
+(4) The Commission may grant a reward in terms of rules
+made in that regard, to a whistleblower who is the first to
+provide such information which leads to the successful
+prosecution or any other sanction by the Commission against
+a person for a contravention of the provisions of this Act.
+173. The Minister may, from time to time, request the Furnishing of
+Commission in writing to furnish to him in such form as he information to
+the Minister
+may require returns, accounts and other information with
+132 Securities and Exchange Commission of
+Sri Lanka Act, No. 19 of 2021
+respect to the work of the Commission and the Commission
+may furnish such information other than information deemed
+confidential by the Commission, on the grounds that
+providing such information –
+(a) would cause grave prejudice to an ongoing
+investigation under the Act;
+(b) would cause grave prejudice to the prevention or
+detection of any offence under the Act; or
+(c) expose the identity of a confidential source of
+information in relation to any inquiries or
+investigations that are being conducted by the
+Commission under the Act.
+Protection for 174. (1) No suit or prosecution shall be instituted against
+action taken any member of the Commission or against any officer of the
+under the Act
+Commission for any acts done or purported to be done or
+omitted to be done in good faith under this Act or on the
+direction of the Commission.
+(2) Any expense incurred by the Commission in any suit
+or prosecution brought by or against it before any court
+shall be paid out of the Fund of the Commission and any
+cost paid to or recovered by the Commission in any such
+suit or prosecution shall be credited to such fund of the
+Commission.
+(3) Any expenses incurred by a person referred to in
+subsection (1) in any suit or prosecution brought against
+him before any court in respect of any act which is done or
+purported to be done by him under this Act or on the
+direction of the Commission shall, if the court holds that
+such act was done in good faith be paid out of the Fund of
+the Commission unless such expenses are recovered by him
+in such suit or prosecution.
+Securities and Exchange Commission of 133
+Sri Lanka Act, No. 19 of 2021
+CHAPTER 2
+PROVISIONS RELATING TO PUNISHMENTS AND ENFORCEMENT
+MECHANISMS
+175. (1) Other than offences under Part V, any person Offences
+who–
+(a) contravenes any provision of this Act or any
+requirement imposed under the provisions of this
+Act or any regulation or rule or directive made
+thereunder;
+(b) furnishes or produces, for the purposes of this Act
+or any requirement imposed under the provisions
+of this Act or any regulation, or any rule or
+directive made thereunder, any information or any
+return, document or electronic record or statement
+the contents of which are, to his knowledge, untrue,
+incorrect or misleading;
+(c) threatens or intimidates or willfully obstructs, makes
+any derogatory remarks and publishes any
+statement with a view to bringing disrepute or
+defaming any member of the Commission or the
+Director-General or an officer or servant of the
+Commission or any person with whom the
+Commission has entered into an agreement in the
+course of discharging his duties under this Act or
+under any regulation or rule made thereunder;
+(d) in any manner falsify any information or electronic
+record or store any misleading or false information
+in any book or electronic record in relation to the
+business of a market institution, market
+intermediary or a listed public company or any of
+its related companies; or
+(e) destroys, conceals, mutilates, alters, sends or
+attempts to send or conspires with any other person
+to remove from its premises or send out of Sri Lanka

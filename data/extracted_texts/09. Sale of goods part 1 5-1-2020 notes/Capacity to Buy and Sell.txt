@@ -1,0 +1,49 @@
+EDABS 301 - Law in Business (2019/2020)
+Lecturer: Shanila H. Gunawardena [ LL.B. (Hons.) (Colombo), Attorney-at-Law, CTA (CASL)]
+(5) CAPACITY TO BUY AND SELL
+- Section 3
+“Capacity to buy and sell is regulated by the general law concerning capacity to contract, and to
+transfer and acquire property:
+Provided that where necessaries are sold and delivered to a minor, or to a person who by reason of
+mental incapacity or drunkenness is incompetent to contract, he must pay a reasonable price
+therefor.
+‘Necessaries’ in this section means goods suitable to the condition in life of such minor or other
+person, and to his actual requirements at the time of the sale and delivery.”
+(6) WHAT IS NOT A CONTRACT FOR SALE OF GOODS?
+- Contract for work and material:
+• The main difference here is that the main subject matter as to whether it involves “goods” or
+“skills”.
+• A contract for the sale of goods contemplates the delivery of a movable item. However, if the
+substance of the contract is for the exercise of some skill and the delivery of the movable is only
+a subsidiary part of the contract, there is no sale of goods.
+• English case - Robinson vs. Graves (1935) – painting a portrait plus supplying the canvass and other
+material was held to be a contract for work and materials and not a contract for sale of goods.
+- Contract of hire purchase/ lease:
+• The hirer does not “agree to buy”. The owner agrees to sell only if the hirer performs all
+necessary conditions. E.g. payment of installments due.
+(7) FORMALITIES REQUIRED FOR A CONTRACT OF SALE OF GOODS
+- Section 4 –
+A contract for the sale of goods can be made:
+• in writing; or
+• by word of mouth (verbally); or
+• partly in writing and partly by word of mouth (verbally); or
+• implied by the conduct of the parties.
+(8) SUBJECT MATTER OF THE CONTRACT
+- “Existing Goods” vs. “Future Goods”
+Section 6(1) – The goods which form the subject of a contract of sale may be either existing
+goods, owned or possessed by the seller, or goods to be manufactured or acquired by the seller
+after the making of the contract of sale (future goods as defined in Section 59).
+- Section 7 – Where there is a contract for the sale of specific goods (specific goods defined in
+Section 59 as goods identified and agreed upon at the time a contract of sale is made), and the
+goods without the knowledge of the seller have perished at the time when the contract is made, the
+contract is void.
+- Section 8 – Where there is an agreement to sell specific goods, and subsequently the goods
+without any fault on the part of the seller or buyer perish before the risk passes to the buyer, the
+agreement is thereby avoided.
+(9) IMPLIED CONDITIONS
+- Implied conditions as to title - section 13(a):
+• The seller has the right to sell the goods [Section 13(a)].
+The seller must have title to the goods. In the English case of Rowland vs. Divall (1923) 2 KB 500,
+Rowland bought a motor-car from Divall and used it for four months. Divall had no title to the
+car, and consequently Rowland had to surrender it to the true owner. Rowland sued to recover
+2
