@@ -1,6 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# Legal MoE AI: A Mixture of Experts System for Semantic Legal Document Retrieval
+# \# Legal MoE AI: A Mixture of Experts System for Semantic Legal Document Retrieval
 
 ## 1. Project Overview
 
@@ -22,8 +20,10 @@ The project is organized into a modular structure to separate data, source code,
 ```
 legal-moe-project/
 ├── data/                      # All datasets and model outputs
+│   ├── extracted_text/        # Processed data, using original pdf files
 │   ├── gating_queries/        # .npy embeddings of queries used to train the gating network
-│   ├── raw_pdfs/              # Original legal PDFs, organized by Act
+│   ├── splitting-pdfs/        # Original unsplitted pdfs and python scripts which were used to split them
+│   ├── raw_pdfs/              # Original splitted legal PDFs, organized into sections
 │   ├── subdomains/            # Processed data, organized by legal subdomain
 │   │   ├── company_law/           # Example subdomain folder
 │   │   │   ├── *.cleaned.txt          # Cleaned text sections
@@ -31,14 +31,15 @@ legal-moe-project/
 │   │   │   ├── pairs.csv              # Positive/negative training pairs for expert
 │   │   │   ├── faiss.index            # FAISS index for similarity search
 │   │   │   ├── faiss_files.pkl        # Mapping of files in FAISS index
-│   │   │   └── expert_model_similarity.pt # Trained expert model weights
+│   │   │   └── expert_model.pt        # Trained expert model weights
 │   │   └── ...                    # Other legal subdomains follow similar structure
-│   ├── gating_network.pt      # Trained weights of the gating network
+│   ├── gating_model.pt        # Trained weights of the gating network
 │   ├── gating_train.csv       # Training data for gating network (queries & labels)
 │   └── subdomain_map.json     # Maps human-readable subdomain names to labels
 │
 ├── notebooks/                 # Jupyter notebooks for data preparation and exploration
-│   ├── extract_and_clean_sections.ipynb # Extract & clean text from PDFs
+│   ├── pdf_section_extraction.ipynb # Extract & generate text from PDFs
+│   ├── preprocessing.ipynb          # Clean the text extracted by removing white space, etc and mapping each text files to relevent subdomain
 │   ├── embed_sections.ipynb         # Generate embeddings from cleaned text
 │   └── build_faiss_and_pairs.ipynb  # Build FAISS indices & generate pairs
 │
@@ -46,11 +47,11 @@ legal-moe-project/
 │   ├── experts/                 # Expert model components
 │   │   ├── expert.py                # Expert model architecture
 │   │   ├── contrastive_loss.py      # Contrastive loss definition
-│   │   └── train_expert_similarity.py # Script to train all expert models
+│   │   └── train_experts.py         # Script to train all expert models
 │   ├── moe/                     # Mixture of Experts components
-│   │   ├── gating_network.py        # Gating network architecture
+│   │   ├── gating.py                # Gating network architecture
 │   │   ├── train_gating_network.py  # Script to train gating network
-│   │   └── moe_inference.py         # Inference pipeline combining gating & experts
+│   │   └── prepare_gating_data.py   # Script to create gating_train.csv
 │   └── utils.py                 # Utility functions
 │
 ├── tests/                     # Unit and integration tests
@@ -101,13 +102,17 @@ First, create a `requirements.txt` file with the following content:
 ```
 torch
 pandas
-numpy
-sentence-transformers
-spacy
 scikit-learn
+networkx
+spacy
+flask
 jupyter
-faiss-cpu
 pdfplumber
+sentence-transformers
+fpdf
+numpy
+pypdf2
+faiss-cpu
 ```
 
 Then, install the packages:
@@ -158,11 +163,9 @@ The gating network learns to route a user's query to the most relevant expert(s)
 
 1. **Prepare Training Data:** First, you need to create the `data/gating_train.csv` file. This involves creating a list of ~200 sample queries and manually assigning the correct `expert_label` to each. Then, generate embeddings for these queries.
 2. **Run the Training Script:**
-
 ```
 python src/moe/train_gating_network.py
 ```
-
 
 * **Output:** This saves the trained gating model to `data/gating_network.pt` and a label mapping to `data/subdomain_map.json`.
 
@@ -178,4 +181,190 @@ python query_moe.py
 ```
 
 * **Functionality:** This script takes a hardcoded query, loads the gating network and all expert models, routes the query to the top-k experts, retrieves the most relevant documents, and prints the final weighted results. You can easily modify the `my_query` variable in the script to ask your own questions.
+
+i updated the folder structure, change the documentation according to it
+
+Of course. Here is the updated documentation based on the new folder structure and file names you provided.
+
+# Legal MoE AI: A Mixture of Experts System for Semantic Legal Document Retrieval
+
+## 1. Project Overview
+
+This project implements a sophisticated Mixture of Experts (MoE) model designed for the intelligent retrieval of legal documents. By leveraging specialized "expert" models for different subdomains of law (e.g., Company Law, Tax Law, Banking Law), the system can provide highly relevant search results from a large corpus of legal texts. A top-k gating network routes user queries to the most appropriate experts, ensuring both accuracy and efficiency.
+
+### Key Features
+
+* **Modular Architecture:** Each legal domain is handled by a dedicated expert model, making the system scalable and easy to maintain.
+* **Semantic Search:** Utilizes state-of-the-art sentence transformers to understand the meaning behind legal queries, going beyond simple keyword matching.
+* **Intelligent Routing:** A trainable top-k gating network dynamically selects the most relevant expert(s) for a given query, improving retrieval accuracy.
+* **End-to-End Pipeline:** Includes comprehensive scripts for data preparation, text extraction, model training, and final inference.
+* **Similarity-Based Learning:** Experts are trained using contrastive loss to learn meaningful representations, enabling them to identify semantically similar legal clauses.
+
+
+## 2. Project Structure
+
+The project is organized into a modular structure to separate data, source code, and notebooks.
+
+```
+legal-moe-project/
+├── data/                      # All datasets and model outputs
+│   ├── extracted_text/        # Processed data, using original pdf files
+│   ├── gating_queries/        # .npy embeddings of queries used to train the gating network
+│   ├── splitting-pdfs/        # Original unsplitted pdfs and python scripts which were used to split them
+│   ├── raw_pdfs/              # Original splitted legal PDFs, organized into sections
+│   ├── subdomains/            # Processed data, organized by legal subdomain
+│   │   ├── company_law/           # Example subdomain folder
+│   │   │   ├── *.cleaned.txt          # Cleaned text sections
+│   │   │   ├── *.embedding.npy        # Vector embeddings of sections
+│   │   │   ├── pairs.csv              # Positive/negative training pairs for expert
+│   │   │   ├── faiss.index            # FAISS index for similarity search
+│   │   │   ├── faiss_files.pkl        # Mapping of files in FAISS index
+│   │   │   └── expert_model.pt        # Trained expert model weights
+│   │   └── ...                    # Other legal subdomains follow similar structure
+│   ├── gating_model.pt        # Trained weights of the gating network
+│   ├── gating_train.csv       # Training data for gating network (queries & labels)
+│   └── subdomain_map.json     # Maps human-readable subdomain names to labels
+│
+├── notebooks/                 # Jupyter notebooks for data preparation and exploration
+│   ├── pdf_section_extraction.ipynb # Extract & generate text from PDFs
+│   ├── preprocessing.ipynb          # Clean the text extracted by removing white space, etc and mapping each text files to relevent subdomain
+│   ├── embed_sections.ipynb         # Generate embeddings from cleaned text
+│   └── build_faiss_and_pairs.ipynb  # Build FAISS indices & generate pairs
+│
+├── src/                       # Source code
+│   ├── experts/                 # Expert model components
+│   │   ├── expert.py                # Expert model architecture
+│   │   ├── contrastive_loss.py      # Contrastive loss definition
+│   │   └── train_experts.py         # Script to train all expert models
+│   ├── moe/                     # Mixture of Experts components
+│   │   ├── gating.py                # Gating network architecture
+│   │   ├── train_gating_network.py  # Script to train gating network
+│   │   └── prepare_gating_data.py   # Script to create gating_train.csv
+│   └── utils.py                 # Utility functions
+│
+├── tests/                     # Unit and integration tests
+│
+├── query_moe.py               # Script to run a query through the trained MoE system
+├── README.md                  # Project documentation (this file)
+└── requirements.txt           # Python dependencies
+```
+
+
+## 3. Setup and Installation
+
+Follow these steps to set up the project environment.
+
+### 3.1. Clone the Repository
+
+```
+git clone <your-repository-url>
+cd legal-moe-project
+```
+
+
+### 3.2. Create and Activate a Virtual Environment
+
+Create the environment:
+
+```
+python -m venv venv
+```
+
+Activate it (on Windows):
+
+```
+venv\Scripts\activate
+```
+
+Activate it (on macOS/Linux):
+
+```
+source venv/bin/activate
+```
+
+
+### 3.3. Install Dependencies
+
+First, create a `requirements.txt` file with the following content:
+
+```
+torch
+pandas
+scikit-learn
+networkx
+spacy
+flask
+jupyter
+pdfplumber
+sentence-transformers
+fpdf
+numpy
+pypdf2
+faiss-cpu
+```
+
+Then, install the packages:
+
+```
+pip install -r requirements.txt
+python -m spacy download en_core_web_sm
+```
+
+
+## 4. End-to-End Workflow
+
+### Step 1: Data Preparation
+
+1. **Place PDFs:** Put your original, unsplit PDF documents in `data/splitting-pdfs/` and your pre-sectioned PDFs into the `data/raw_pdfs/` directory.
+2. **Extract Text:** Use the `notebooks/pdf_section_extraction.ipynb` to process the PDFs. This notebook reads PDFs from `data/raw_pdfs/` and saves the raw text into `data/extracted_text/`.
+3. **Preprocess and Organize Text:** Run `notebooks/preprocessing.ipynb`. This script cleans the text from the previous step and organizes the `.cleaned.txt` files into the appropriate folders under `data/subdomains/`.
+
+### Step 2: Generate Embeddings and Build Search Indices
+
+1. **Generate Embeddings:** Run `notebooks/embed_sections.ipynb`. This notebook iterates through all `.cleaned.txt` files in `data/subdomains/`, generates a sentence-transformer embedding for each, and saves it as a `.embedding.npy` file.
+2. **Build FAISS Index:** Run `notebooks/build_faiss_and_pairs.ipynb`. This creates a FAISS index for each subdomain for fast similarity searches and saves it as `faiss.index`.
+
+### Step 3: Create Training Pairs for Experts
+
+The `notebooks/build_faiss_and_pairs.ipynb` also handles this step. It uses the FAISS index to find semantically similar and dissimilar pairs of sections within each subdomain and saves them to a `pairs.csv` file, which is crucial for training the experts.
+
+### Step 4: Train the Expert Models
+
+The expert models are trained to understand the nuances of their specific legal domain.
+
+* **Run Training Script:**
+
+```
+python src/experts/train_experts.py
+```
+
+* **Output:** This script trains an expert model for each subdomain and saves the trained weights as `expert_model.pt` inside each subdomain's folder.
+
+
+### Step 5: Train the Gating Network
+
+The gating network learns to route a user's query to the most relevant expert(s).
+
+1. **Prepare Training Data:** Run the `src/moe/prepare_gating_data.py` script. This automatically generates the `data/gating_train.csv` file and query embeddings required for training.
+2. **Run the Training Script:**
+
+```
+python src/moe/train_gating_network.py
+```
+
+
+* **Output:** This saves the trained model to `data/gating_model.pt` and a label mapping to `data/subdomain_map.json`.
+
+
+## 5. Running the MoE System for Inference
+
+Once all models are trained, you can query the system using the main inference script.
+
+* **How to Run:**
+
+```
+python query_moe.py
+```
+
+* **Functionality:** This script takes a hardcoded query, loads the `gating_model.pt` and all `expert_model.pt` files, routes the query to the top-k experts, retrieves the most relevant documents, and prints the final weighted results. You can modify the `my_query` variable in the script to ask your own questions.
 
