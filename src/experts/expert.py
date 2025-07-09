@@ -5,7 +5,7 @@ class Expert(nn.Module):
         super().__init__()
         self.fc = nn.Linear(input_dim, input_dim)
         self.relu = nn.ReLU()
+
     def forward(self, x):
         return self.relu(self.fc(x))
-    def get_expert_name(self):
-        return self.__class__.__name__
+
