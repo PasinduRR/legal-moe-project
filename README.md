@@ -19,22 +19,22 @@ The project is organized into a modular structure to separate data, source code,
 
 ```
 legal-moe-project/
-├── data/                      # All datasets and model outputs
-│   ├── extracted_text/        # Processed data, using original pdf files
-│   ├── gating_queries/        # .npy embeddings of queries used to train the gating network
-│   ├── splitting-pdfs/        # Original unsplitted pdfs and python scripts which were used to split them
-│   ├── raw_pdfs/              # Original splitted legal PDFs, organized into sections
-│   ├── subdomains/            # Processed data, organized by legal subdomain
+├── data/                      # All datasets and *generated* model outputs and intermediate files (ignored by Git)
+│   ├── extracted_text/        # Processed data, using original pdf files (generated, ignored by Git)
+│   ├── gating_queries/        # .npy embeddings of queries used to train the gating network (generated, ignored by Git)
+│   ├── splitting-pdfs/        # Original unsplitted pdfs and python scripts which were used to split them (generated, ignored by Git)
+│   ├── raw_pdfs/              # Original splitted legal PDFs, organized into sections (generated, ignored by Git)
+│   ├── subdomains/            # Processed data, organized by legal subdomain (generated, ignored by Git)
 │   │   ├── company_law/           # Example subdomain folder
-│   │   │   ├── *.cleaned.txt          # Cleaned text sections
-│   │   │   ├── *.embedding.npy        # Vector embeddings of sections
-│   │   │   ├── pairs.csv              # Positive/negative training pairs for expert
-│   │   │   ├── faiss.index            # FAISS index for similarity search
-│   │   │   ├── faiss_files.pkl        # Mapping of files in FAISS index
-│   │   │   └── expert_model.pt        # Trained expert model weights
+│   │   │   ├── *.cleaned.txt          # Cleaned text sections (generated, ignored by Git)
+│   │   │   ├── *.embedding.npy        # Vector embeddings of sections (generated, ignored by Git)
+│   │   │   ├── pairs.csv              # Positive/negative training pairs for expert (generated, ignored by Git)
+│   │   │   ├── faiss.index            # FAISS index for similarity search (generated, ignored by Git)
+│   │   │   ├── faiss_files.pkl        # Mapping of files in FAISS index (generated, ignored by Git)
+│   │   │   └── expert_model.pt        # Trained expert model weights (generated, ignored by Git)
 │   │   └── ...                    # Other legal subdomains follow similar structure
-│   ├── gating_model.pt        # Trained weights of the gating network
-│   ├── gating_train.csv       # Training data for gating network (queries & labels)
+│   ├── gating_model.pt        # Trained weights of the gating network (generated, ignored by Git)
+│   ├── gating_train.csv       # Training data for gating network (queries & labels) (generated, ignored by Git)
 │   └── subdomain_map.json     # Maps human-readable subdomain names to labels
 │
 ├── notebooks/                 # Jupyter notebooks for data preparation and exploration
@@ -127,18 +127,18 @@ python -m spacy download en_core_web_sm
 
 ### Step 1: Data Preparation
 
-1. **Place PDFs:** Put your original, unsplit PDF documents in `data/splitting-pdfs/` and your pre-sectioned PDFs into the `data/raw_pdfs/` directory.
-2. **Extract Text:** Use the `notebooks/pdf_section_extraction.ipynb` to process the PDFs. This notebook reads PDFs from `data/raw_pdfs/` and saves the raw text into `data/extracted_text/`.
-3. **Preprocess and Organize Text:** Run `notebooks/preprocessing.ipynb`. This script cleans the text from the previous step and organizes the `.cleaned.txt` files into the appropriate folders under `data/subdomains/`.
+1. **Place PDFs:** Put your original, unsplit PDF documents in `data/splitting-pdfs/` and your pre-sectioned PDFs into the `data/raw_pdfs/` directory. (Note: These directories are for input and generated files, and are ignored by Git.)
+2. **Extract Text:** Use the `notebooks/pdf_section_extraction.ipynb` to process the PDFs. This notebook reads PDFs from `data/raw_pdfs/` and saves the raw text into `data/extracted_text/`. (Note: `data/extracted_text/` contains generated files and is ignored by Git.)
+3. **Preprocess and Organize Text:** Run `notebooks/preprocessing.ipynb`. This script cleans the text from the previous step and organizes the `.cleaned.txt` files into the appropriate folders under `data/subdomains/`. (Note: `data/subdomains/` contains generated files and is ignored by Git.)
 
 ### Step 2: Generate Embeddings and Build Search Indices
 
-1. **Generate Embeddings:** Run `notebooks/embed_sections.ipynb`. This notebook iterates through all `.cleaned.txt` files in `data/subdomains/`, generates a sentence-transformer embedding for each, and saves it as a `.embedding.npy` file.
-2. **Build FAISS Index:** Run `notebooks/build_faiss_and_pairs.ipynb`. This creates a FAISS index for each subdomain for fast similarity searches and saves it as `faiss.index`.
+1. **Generate Embeddings:** Run `notebooks/embed_sections.ipynb`. This notebook iterates through all `.cleaned.txt` files in `data/subdomains/`, generates a sentence-transformer embedding for each, and saves it as a `.embedding.npy` file. (Note: These `.npy` files are generated and ignored by Git.)
+2. **Build FAISS Index:** Run `notebooks/build_faiss_and_pairs.ipynb`. This creates a FAISS index for each subdomain for fast similarity searches and saves it as `faiss.index`. (Note: These index files are generated and ignored by Git.)
 
 ### Step 3: Create Training Pairs for Experts
 
-The `notebooks/build_faiss_and_pairs.ipynb` also handles this step. It uses the FAISS index to find semantically similar and dissimilar pairs of sections within each subdomain and saves them to a `pairs.csv` file, which is crucial for training the experts.
+The `notebooks/build_faiss_and_pairs.ipynb` also handles this step. It uses the FAISS index to find semantically similar and dissimilar pairs of sections within each subdomain and saves them to a `pairs.csv` file, which is crucial for training the experts. (Note: These `pairs.csv` files are generated and ignored by Git.)
 
 ### Step 4: Train the Expert Models
 
@@ -150,14 +150,14 @@ The expert models are trained to understand the nuances of their specific legal 
 python src/experts/train_experts.py
 ```
 
-* **Output:** This script trains an expert model for each subdomain and saves the trained weights as `expert_model.pt` inside each subdomain's folder.
+* **Output:** This script trains an expert model for each subdomain and saves the trained weights as `expert_model.pt` inside each subdomain's folder. (Note: These model files are generated and ignored by Git.)
 
 
 ### Step 5: Train the Gating Network
 
 The gating network learns to route a user's query to the most relevant expert(s).
 
-1. **Prepare Training Data:** Run the `src/moe/prepare_gating_data.py` script. This automatically generates the `data/gating_train.csv` file and query embeddings required for training.
+1. **Prepare Training Data:** Run the `src/moe/prepare_gating_data.py` script. This automatically generates the `data/gating_train.csv` file and query embeddings required for training. (Note: These files are generated and ignored by Git.)
 2. **Run the Training Script:**
 
 ```
@@ -165,7 +165,7 @@ python src/moe/train_gating_network.py
 ```
 
 
-* **Output:** This saves the trained model to `data/gating_model.pt` and a label mapping to `data/subdomain_map.json`.
+* **Output:** This saves the trained model to `data/gating_model.pt` and a label mapping to `data/subdomain_map.json`. (Note: `gating_model.pt` is generated and ignored by Git.)
 
 
 ## 5. Running the MoE System for Inference
