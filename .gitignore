@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+.venv/
+venv/
+# Jupyter Notebook
+.ipynb_checkpoints/
+# Data
+data/*.npy
+data/gating_model.pt
+data/gating_train.csv
+data/extracted_texts/
+data/raw_pdfs/
+data/splitting-pdfs/
+data/subdomains/
